@@ -40,6 +40,12 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ### 📺 Latest Videos
 <!-- BEGIN YOUTUBE-CARDS -->
+[![California Roadtrip 2024](https://ytcards.demolab.com/?id=l7Hf5CSE6Q8&title=California+Roadtrip+2024&lang=en&timestamp=1736652480&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "California Roadtrip 2024")](https://www.youtube.com/watch?v=l7Hf5CSE6Q8)
+[![2023: A Year in Review](https://ytcards.demolab.com/?id=rwKQiOcXC6E&title=2023%3A+A+Year+in+Review&lang=en&timestamp=1712817608&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "2023: A Year in Review")](https://www.youtube.com/watch?v=rwKQiOcXC6E)
+[![Lake Tahoe Century Ride 2023](https://ytcards.demolab.com/?id=zgrpeEVw8HQ&title=Lake+Tahoe+Century+Ride+2023&lang=en&timestamp=1702838461&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Lake Tahoe Century Ride 2023")](https://www.youtube.com/watch?v=zgrpeEVw8HQ)
+[![Windmill 2023](https://ytcards.demolab.com/?id=3ZboumN1mD0&title=Windmill+2023&lang=en&timestamp=1696101716&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Windmill 2023")](https://www.youtube.com/watch?v=3ZboumN1mD0)
+[![August Connections 2022](https://ytcards.demolab.com/?id=1ktNaagk4L4&title=August+Connections+2022&lang=en&timestamp=1669497078&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "August Connections 2022")](https://www.youtube.com/watch?v=1ktNaagk4L4)
+[![Big Bend (AZ-NM-TX)](https://ytcards.demolab.com/?id=FQhjWDFnsEM&title=Big+Bend+%28AZ-NM-TX%29&lang=en&timestamp=1669166600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Big Bend (AZ-NM-TX)")](https://www.youtube.com/watch?v=FQhjWDFnsEM)
 <!-- END YOUTUBE-CARDS -->
 
 
