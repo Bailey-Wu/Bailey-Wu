@@ -53,7 +53,7 @@ I'm an indie full-stack developer and content creator building my version of the
 #
 
 ### 🗻 [U.S National Parks Tracker](https://bailey-wu.github.io/Bailey.github.io/)
-[![Live Map](https://brightstandards.com/wp-content/uploads/2023/08/national-parks-map-and-checklist.jpg)](https://bailey-wu.github.io/Bailey.github.io/)
+[![Live Map](https://github.com/Bailey-Wu/Bailey-Wu/blob/main/US%20National%20Parks.JPG?raw=true)](https://bailey-wu.github.io/Bailey.github.io/)
 
 
 
