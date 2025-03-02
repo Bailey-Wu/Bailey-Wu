@@ -38,7 +38,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 #
 
-### 📺 Latest YouTube Videos
+### 📺 Latest Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![2024: California Roadtrip](https://ytcards.demolab.com/?id=l7Hf5CSE6Q8&title=2024+California+Roadtrip&lang=en&timestamp=1740593333&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=201 "2024: California Roadtrip")](https://www.youtube.com/watch?v=l7Hf5CSE6Q8)
