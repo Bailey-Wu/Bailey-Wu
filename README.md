@@ -2,9 +2,7 @@
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 500k subscribers.
-
-My name is Bailey and thank you for stopping by! The purpose of this website is to create a personal space where I can express myself through my projects, writing, videos and photography. Feel free to browse through the site to learn a little bit more about me and my experiences.
+I'm a Mechanical Engineer at the University of Washington building my version of the digital world one step at a time. Most of my repositories on GitHub are used as a personal space to document my projects, writing, videos and photography. 
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
@@ -44,7 +42,7 @@ My name is Bailey and thank you for stopping by! The purpose of this website is 
     <img src="https://preview.redd.it/some-random-gifs-from-my-stop-motion-video-game-v0-nm7f8579fnjb1.gif?width=600&auto=webp&s=2f33c6b08118b64bc0cbeb69d11173b48fa7e10b" alt="Description 1" width="400" />
     <img src="https://preview.redd.it/some-random-gifs-from-my-stop-motion-video-game-v0-nm7f8579fnjb1.gif?width=600&auto=webp&s=2f33c6b08118b64bc0cbeb69d11173b48fa7e10b" alt="Description 2" width="400" />
     <img src="https://preview.redd.it/some-random-gifs-from-my-stop-motion-video-game-v0-nm7f8579fnjb1.gif?width=600&auto=webp&s=2f33c6b08118b64bc0cbeb69d11173b48fa7e10b" alt="Description 3" width="400" />
-    <img src="https://preview.redd.it/some-random-gifs-from-my-stop-motion-video-game-v0-nm7f8579fnjb1.gif?width=600&auto=webp&s=2f33c6b08118b64bc0cbeb69d11173b48fa7e10b" alt="Description 4" width="400" />
+    <img src="https://github.com/Bailey-Wu/Bailey-Wu/blob/main/US%20National%20Parks.JPG?raw=true" alt="Description 4" width="400" />
 </div>
 
 
@@ -68,7 +66,23 @@ My name is Bailey and thank you for stopping by! The purpose of this website is 
 [![Live Map](https://github.com/Bailey-Wu/Bailey-Wu/blob/main/US%20National%20Parks.JPG?raw=true)](https://bailey-wu.github.io/Bailey.github.io/)
 
 
+## 👨‍🍳 Family Recipes
 
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+    <img src="https://github.com/Bailey-Wu/Bailey-Wu/blob/main/US%20National%20Parks.JPG?raw=true" alt="Description 4" width="300" />
+    <img src="https://github.com/Bailey-Wu/Bailey-Wu/blob/main/US%20National%20Parks.JPG?raw=true" alt="Description 4" width="300" />
+    <img src="https://github.com/Bailey-Wu/Bailey-Wu/blob/main/US%20National%20Parks.JPG?raw=true" alt="Description 4" width="300" />
+    <img src="https://github.com/Bailey-Wu/Bailey-Wu/blob/main/US%20National%20Parks.JPG?raw=true" alt="Description 4" width="300" />
+</div>
+
+## 🔧 Projects
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+    <img src="https://github.com/Bailey-Wu/Bailey-Wu/blob/main/US%20National%20Parks.JPG?raw=true" alt="Description 4" width="300" />
+    <img src="https://github.com/Bailey-Wu/Bailey-Wu/blob/main/US%20National%20Parks.JPG?raw=true" alt="Description 4" width="300" />
+    <img src="https://github.com/Bailey-Wu/Bailey-Wu/blob/main/US%20National%20Parks.JPG?raw=true" alt="Description 4" width="300" />
+    <img src="https://github.com/Bailey-Wu/Bailey-Wu/blob/main/US%20National%20Parks.JPG?raw=true" alt="Description 4" width="300" />
+</div>
 
 ### 📊 Stats
 
