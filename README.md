@@ -1,6 +1,6 @@
 # 🏄‍♂️ Bailey
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Mechanical Engineer based in Seattle, WA`**
 
 I'm a Mechanical Engineer at the University of Washington building my version of the digital world one step at a time. Most of my repositories on GitHub are used as a personal space to document my projects, writing, videos and photography. 
 
@@ -36,14 +36,7 @@ I'm a Mechanical Engineer at the University of Washington building my version of
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-## 📷 Timelapse Gallery
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-    <img src="https://preview.redd.it/some-random-gifs-from-my-stop-motion-video-game-v0-nm7f8579fnjb1.gif?width=600&auto=webp&s=2f33c6b08118b64bc0cbeb69d11173b48fa7e10b" alt="Description 1" width="400" />
-    <img src="https://preview.redd.it/some-random-gifs-from-my-stop-motion-video-game-v0-nm7f8579fnjb1.gif?width=600&auto=webp&s=2f33c6b08118b64bc0cbeb69d11173b48fa7e10b" alt="Description 2" width="400" />
-    <img src="https://preview.redd.it/some-random-gifs-from-my-stop-motion-video-game-v0-nm7f8579fnjb1.gif?width=600&auto=webp&s=2f33c6b08118b64bc0cbeb69d11173b48fa7e10b" alt="Description 3" width="400" />
-    <img src="https://github.com/Bailey-Wu/Bailey-Wu/blob/main/US%20National%20Parks.JPG?raw=true" alt="Description 4" width="400" />
-</div>
 
 
 #
@@ -58,7 +51,80 @@ I'm a Mechanical Engineer at the University of Washington building my version of
 [![Big Bend (AZ-NM-TX)](https://ytcards.demolab.com/?id=FQhjWDFnsEM&title=Big+Bend+%28AZ-NM-TX%29&lang=en&timestamp=1669166600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Big Bend (AZ-NM-TX)")](https://www.youtube.com/watch?v=FQhjWDFnsEM)
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/baileywu?sub_confirmation=1)
+
+
+---
+
+<!-- markdownlint-disable MD033 -->
+
+<details>
+    <summary>🔧<b> Projects</b></summary><br/>
+
+<!-- BLOG-POST-LIST:START -->
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+    <img src="https://github.com/Bailey-Wu/Bailey-Wu/blob/main/US%20National%20Parks.JPG?raw=true" alt="Description 4" width="300" />
+    <img src="https://github.com/Bailey-Wu/Bailey-Wu/blob/main/US%20National%20Parks.JPG?raw=true" alt="Description 4" width="300" />
+    <img src="https://github.com/Bailey-Wu/Bailey-Wu/blob/main/US%20National%20Parks.JPG?raw=true" alt="Description 4" width="300" />
+</div>
+<!-- BLOG-POST-LIST:END -->
+
+</details>
+
+<details>
+    <summary>👨‍🍳<b> Family Recipes</b></summary><br/>
+
+<!-- BLOG-POST-LIST:START -->
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+    <img src="https://github.com/Bailey-Wu/Bailey-Wu/blob/main/US%20National%20Parks.JPG?raw=true" alt="Description 4" width="300" />
+    <img src="https://github.com/Bailey-Wu/Bailey-Wu/blob/main/US%20National%20Parks.JPG?raw=true" alt="Description 4" width="300" />
+    <img src="https://github.com/Bailey-Wu/Bailey-Wu/blob/main/US%20National%20Parks.JPG?raw=true" alt="Description 4" width="300" />
+</div>
+<!-- BLOG-POST-LIST:END -->
+
+</details>
+
+<details>
+    <summary>🗻<b> U.S National Parks Tracker</b></summary><br/>
+
+<!-- BLOG-POST-LIST:START -->
+[![Live Map](https://github.com/Bailey-Wu/Bailey-Wu/blob/main/US%20National%20Parks.JPG?raw=true)](https://bailey-wu.github.io/Bailey.github.io/)
+<!-- BLOG-POST-LIST:END -->
+
+</details>
+
+<details>
+    <summary>📷<b> Timelapse Gallery</b></summary><br/>
+
+<!-- BLOG-POST-LIST:START -->
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+    <img src="https://preview.redd.it/some-random-gifs-from-my-stop-motion-video-game-v0-nm7f8579fnjb1.gif?width=600&auto=webp&s=2f33c6b08118b64bc0cbeb69d11173b48fa7e10b" alt="Description 1" width="300" />
+    <img src="https://preview.redd.it/some-random-gifs-from-my-stop-motion-video-game-v0-nm7f8579fnjb1.gif?width=600&auto=webp&s=2f33c6b08118b64bc0cbeb69d11173b48fa7e10b" alt="Description 2" width="300" />
+    <img src="https://github.com/Bailey-Wu/Bailey-Wu/blob/main/US%20National%20Parks.JPG?raw=true" alt="Description 4" width="300" />
+</div>
+<!-- BLOG-POST-LIST:END -->
+
+</details>
+
+
+<details>
+    <summary>&#128240 <b>Latest Blogs Posts</b></summary><br/>
+
+<!-- BLOG-POST-LIST:START -->
+- [My Experience as Maintainer for Hacktoberfest 2021](https://dev.to/warengonzaga/my-experience-as-maintainer-for-hacktoberfest-2021-4opm)
+- [7 Helpful GitHub Repositories for Developers](https://dev.to/warengonzaga/7-helpful-github-repositories-for-developers-2kkm)
+- [GitHub Codespaces](https://dev.to/warengonzaga/github-codespaces-1i8k)
+- [Animate.css v4 Update!](https://dev.to/warengonzaga/animate-css-v4-update-18m8)
+- [An open-source curl-based command line tracker for coronavirus or covid-19 with historical chart.](https://dev.to/warengonzaga/an-open-source-curl-based-command-line-tracker-for-coronavirus-or-covid-19-with-historical-chart-3op9)
+<!-- BLOG-POST-LIST:END -->
+
+</details>
+
+
+<!-- markdownlint-enable MD033 -->
+
+
+### 📊 Stats
 
 #
 
@@ -83,14 +149,6 @@ I'm a Mechanical Engineer at the University of Washington building my version of
 </div>
 
 
-
-
-
-### 📊 Stats
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
 <!--
