@@ -63,7 +63,7 @@ I'm a Mechanical Engineer at the University of Washington building my version of
 </details>
 <!-------------------------------------------------------------------------------------------------------------------->
 <details>
-    <summary>👨‍🍳<b> Family Recipes</b></summary><br/>
+    <summary>🍜<b> Family Recipes</b></summary><br/>
 
 <!-- BLOG-POST-LIST:START -->
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
@@ -107,6 +107,16 @@ I'm a Mechanical Engineer at the University of Washington building my version of
 - [Animate.css v4 Update!](https://dev.to/warengonzaga/animate-css-v4-update-18m8)
 - [An open-source curl-based command line tracker for coronavirus or covid-19 with historical chart.](https://dev.to/warengonzaga/an-open-source-curl-based-command-line-tracker-for-coronavirus-or-covid-19-with-historical-chart-3op9)
 <!-- BLOG-POST-LIST:END -->
+</details>
+<!-------------------------------------------------------------------------------------------------------------------->
+<details>
+    <summary>💭<b> Random Thoughts</b></summary><br/>
+
+<!-- BLOG-POST-LIST:START -->
+- [My Experience as Maintainer for Hacktoberfest 2021]
+- [7 Helpful
+<!-- BLOG-POST-LIST:END -->
+
 </details>
 <!-------------------------------------------------------------------------------------------------------------------->
 <!-- markdownlint-enable MD033 -->
