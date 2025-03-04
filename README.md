@@ -51,11 +51,10 @@ I'm a Mechanical Engineer at the University of Washington building my version of
 [![Big Bend (AZ-NM-TX)](https://ytcards.demolab.com/?id=FQhjWDFnsEM&title=Big+Bend+%28AZ-NM-TX%29&lang=en&timestamp=1669166600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Big Bend (AZ-NM-TX)")](https://www.youtube.com/watch?v=FQhjWDFnsEM)
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/baileywu?sub_confirmation=1)
-
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@baileywu?sub_confirmation=1)
 
 ---
-
+<!-------------------------------------------------------------------------------------------------------------------->
 <!-- markdownlint-disable MD033 -->
 
 <details>
@@ -70,7 +69,7 @@ I'm a Mechanical Engineer at the University of Washington building my version of
 <!-- BLOG-POST-LIST:END -->
 
 </details>
-
+<!-------------------------------------------------------------------------------------------------------------------->
 <details>
     <summary>👨‍🍳<b> Family Recipes</b></summary><br/>
 
@@ -83,7 +82,7 @@ I'm a Mechanical Engineer at the University of Washington building my version of
 <!-- BLOG-POST-LIST:END -->
 
 </details>
-
+<!-------------------------------------------------------------------------------------------------------------------->
 <details>
     <summary>🗻<b> U.S National Parks Tracker</b></summary><br/>
 
@@ -92,7 +91,7 @@ I'm a Mechanical Engineer at the University of Washington building my version of
 <!-- BLOG-POST-LIST:END -->
 
 </details>
-
+<!-------------------------------------------------------------------------------------------------------------------->
 <details>
     <summary>📷<b> Timelapse Gallery</b></summary><br/>
 
@@ -105,8 +104,7 @@ I'm a Mechanical Engineer at the University of Washington building my version of
 <!-- BLOG-POST-LIST:END -->
 
 </details>
-
-
+<!-------------------------------------------------------------------------------------------------------------------->
 <details>
     <summary>&#128240 <b>Latest Blogs Posts</b></summary><br/>
 
@@ -117,20 +115,18 @@ I'm a Mechanical Engineer at the University of Washington building my version of
 - [Animate.css v4 Update!](https://dev.to/warengonzaga/animate-css-v4-update-18m8)
 - [An open-source curl-based command line tracker for coronavirus or covid-19 with historical chart.](https://dev.to/warengonzaga/an-open-source-curl-based-command-line-tracker-for-coronavirus-or-covid-19-with-historical-chart-3op9)
 <!-- BLOG-POST-LIST:END -->
-
 </details>
-
-
+<!-------------------------------------------------------------------------------------------------------------------->
 <!-- markdownlint-enable MD033 -->
 
 
-### 📊 Stats
 
 #
 
 ### 🗻 [U.S National Parks Tracker](https://bailey-wu.github.io/Bailey.github.io/)
 [![Live Map](https://github.com/Bailey-Wu/Bailey-Wu/blob/main/US%20National%20Parks.JPG?raw=true)](https://bailey-wu.github.io/Bailey.github.io/)
 
+### 📊 Stats
 
 ## 👨‍🍳 Family Recipes
 
