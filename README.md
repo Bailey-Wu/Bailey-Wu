@@ -54,9 +54,9 @@ I'm a Mechanical Engineer at the University of Washington building my version of
 
 <!-- BLOG-POST-LIST:START -->
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-    <img src="https://github.com/Bailey-Wu/Bailey-Wu/blob/main/US%20National%20Parks.JPG?raw=true" alt="Description 4" width="300" />
-    <img src="https://github.com/Bailey-Wu/Bailey-Wu/blob/main/US%20National%20Parks.JPG?raw=true" alt="Description 4" width="300" />
-    <img src="https://github.com/Bailey-Wu/Bailey-Wu/blob/main/US%20National%20Parks.JPG?raw=true" alt="Description 4" width="300" />
+    <img src="https://github.com/Bailey-Wu/Bailey-Wu/blob/main/US%20National%20Parks.JPG?raw=true" alt="Description 4" width="250" />
+    <img src="https://github.com/Bailey-Wu/Bailey-Wu/blob/main/US%20National%20Parks.JPG?raw=true" alt="Description 4" width="250" />
+    <img src="https://github.com/Bailey-Wu/Bailey-Wu/blob/main/US%20National%20Parks.JPG?raw=true" alt="Description 4" width="250" />
 </div>
 <!-- BLOG-POST-LIST:END -->
 
@@ -67,9 +67,9 @@ I'm a Mechanical Engineer at the University of Washington building my version of
 
 <!-- BLOG-POST-LIST:START -->
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-    <img src="https://github.com/Bailey-Wu/Bailey-Wu/blob/main/US%20National%20Parks.JPG?raw=true" alt="Description 4" width="300" />
-    <img src="https://github.com/Bailey-Wu/Bailey-Wu/blob/main/US%20National%20Parks.JPG?raw=true" alt="Description 4" width="300" />
-    <img src="https://github.com/Bailey-Wu/Bailey-Wu/blob/main/US%20National%20Parks.JPG?raw=true" alt="Description 4" width="300" />
+    <img src="https://github.com/Bailey-Wu/Bailey-Wu/blob/main/US%20National%20Parks.JPG?raw=true" alt="Description 4" width="250" />
+    <img src="https://github.com/Bailey-Wu/Bailey-Wu/blob/main/US%20National%20Parks.JPG?raw=true" alt="Description 4" width="250" />
+    <img src="https://github.com/Bailey-Wu/Bailey-Wu/blob/main/US%20National%20Parks.JPG?raw=true" alt="Description 4" width="250" />
 </div>
 <!-- BLOG-POST-LIST:END -->
 
