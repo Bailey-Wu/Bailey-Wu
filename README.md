@@ -38,9 +38,19 @@ My name is Bailey and thank you for stopping by! The purpose of this website is 
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
+## Timelapse Gallery
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+    <img src="https://preview.redd.it/some-random-gifs-from-my-stop-motion-video-game-v0-nm7f8579fnjb1.gif?width=600&auto=webp&s=2f33c6b08118b64bc0cbeb69d11173b48fa7e10b" alt="Description 1" width="400" />
+    <img src="https://preview.redd.it/some-random-gifs-from-my-stop-motion-video-game-v0-nm7f8579fnjb1.gif?width=600&auto=webp&s=2f33c6b08118b64bc0cbeb69d11173b48fa7e10b" alt="Description 2" width="400" />
+    <img src="https://preview.redd.it/some-random-gifs-from-my-stop-motion-video-game-v0-nm7f8579fnjb1.gif?width=600&auto=webp&s=2f33c6b08118b64bc0cbeb69d11173b48fa7e10b" alt="Description 3" width="400" />
+    <img src="https://preview.redd.it/some-random-gifs-from-my-stop-motion-video-game-v0-nm7f8579fnjb1.gif?width=600&auto=webp&s=2f33c6b08118b64bc0cbeb69d11173b48fa7e10b" alt="Description 4" width="400" />
+</div>
+
+
 #
 
-### 📺 Latest Videos
+## 📺 Latest Videos
 <!-- BEGIN YOUTUBE-CARDS -->
 [![California Roadtrip 2024](https://ytcards.demolab.com/?id=l7Hf5CSE6Q8&title=California+Roadtrip+2024&lang=en&timestamp=1736652480&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "California Roadtrip 2024")](https://www.youtube.com/watch?v=l7Hf5CSE6Q8)
 [![2023: A Year in Review](https://ytcards.demolab.com/?id=rwKQiOcXC6E&title=2023%3A+A+Year+in+Review&lang=en&timestamp=1712817608&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "2023: A Year in Review")](https://www.youtube.com/watch?v=rwKQiOcXC6E)
