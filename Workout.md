@@ -9,20 +9,11 @@
 - [Routine](#wrench-development)
 - [Equipment](#wrench-development)
 - [Workout](#wrench-workout)
-  - [Pre-Requisites](#notebook-pre-requisites)
-  - [Developmen Environment](#nut_and_bolt-development-environment)
-  - [File Structure](#file_folder-file-structure)
-  - [Build](#hammer-build)  
-  - [Deployment](#rocket-deployment)  
-- [Community](#cherry_blossom-community)
+- [Example Template](#cherry_blossom-example-templates)
   - [Contribution](#fire-contribution)
   - [Branches](#cactus-branches)
   - [Guideline](#exclamation-guideline)  
-- [FAQ](#question-faq)
-- [Resources](#page_facing_up-resources)
-- [Gallery](#camera-gallery)
 - [Credit/Acknowledgment](#star2-creditacknowledgment)
-- [License](#lock-license)
 
 ##  :beginner: About
 Quick disclaimer: I am not a personal trainer 
@@ -72,59 +63,31 @@ Based on what I've found, a good upper body workout involves working the followi
 -  Glutes: 0-1 exercise
 -  Calves: 1-2 exercises
 
-###  :file_folder: File Structure
-Add a file structure here with the basic details about files, below is an example.
+###  :nut_and_bolt: Lower Body
+-  Quads: 1-2 exercises
+-  Hamstrings: 1-2 exercises
+-  Glutes: 0-1 exercise
+-  Calves: 1-2 exercises
 
-```
-.
-├── assets
-│   ├── css
-│   │   ├── index-ui.css
-│   │   └── rate-ui.css
-│   ├── images
-│   │   ├── icons
-│   │   │   ├── shrink-button.png
-│   │   │   └── umbrella.png
-│   │   ├── logo_144.png
-│   │   └── Untitled-1.psd
-│   └── javascript
-│       ├── index.js
-│       └── rate.js
-├── CNAME
-├── index.html
-├── rate.html
-└── README.md
-```
+## :cherry_blossom: Example Templates
 
-| No | File Name | Details 
-|----|------------|-------|
-| 1  | index | Entry point
-
-###  :hammer: Build
-Write the build Instruction here.
-
-### :rocket: Deployment
-Write the deployment instruction here.
-
-## :cherry_blossom: Favorite Templates
-
-Upper Body
+### Upper Body
 Warm Up: 
 -  Lateral Band
 -  Roll Out with Foam Roller
 -  Dynamic Stretching on Pull-Up bar
 
-| Muscle Group | Primary Activity | Secondary Activities |
-|----------    |----------|----------|
-| Chest #1     | Bench Press   | Dumbbell Press   |
-| Chest #2     | Data 1   | Push-Ups   |
-| Back #1      | Barbell Row   | Pull Ups   |
-| Back #1      | Single Arm Dumbbell Row  | Data 2   |
-| Shoulder #1  | Seated Dumbbell Press   | Data 2   |
-| Biceps #1    | Dumbell Curls   | Data 2   |
-| Triceps #1   | Overhead Dumbbell Tricep Extension   | Data 2   |
+| Muscle Group | Primary Activity                     | Secondary Activities |
+|----------    |----------                            |----------|
+| Chest #1     | Bench Press                          | Dumbbell Press   |
+| Chest #2     | Lat Pull Down                        | Push-Ups   |
+| Back #1      | Barbell Row                          | Pull Ups   |
+| Back #2      | Single Arm Dumbbell Row              | Pull Ups   |
+| Shoulder #1  | Seated Dumbbell Press                | Lateral Raise    |
+| Biceps #1    | Dumbell Curls                        | Chin Ups   |
+| Triceps #1   | Overhead Dumbbell Tricep Extension   | Seated Bench Dips   |
 
-Lower Body
+### Lower Body
 Warm Up: 
 -  Lateral Band
 -  Roll Out with Foam Roller
@@ -132,69 +95,36 @@ Warm Up:
 
 | Muscle Group | Primary Activity | Secondary Activities |
 |----------    |----------|----------|
-| Chest #1     | Bench Press   | Dumbbell Press   |
-| Chest #2     | Data 1   | Push-Ups   |
-| Back #1      | Barbell Row   | Pull Ups   |
-| Back #1      | Single Arm Dumbbell Row  | Data 2   |
-| Shoulder #1  | Seated Dumbbell Press   | Data 2   |
-| Biceps #1    | Dumbell Curls   | Data 2   |
-| Triceps #1   | Overhead Dumbbell Tricep Extension   | Data 2   |
+| Quads        | Squats   | Goblet squat   |
+| Hamstrings   | Deadlifts   | Single-leg deadlift  |
+| Glutes       | Leg Lunges  | Bulgarian split squat  |
+| Calves       | Calf Raises  | N/A |
 
- ###  :fire: Contribution
+### Abs
+-  Workout Video 1
+-  Workout Video 2
+-  Workout Video 3
+-  Dynamic Stretching
 
- Your contributions are always welcome and appreciated. Following are the things you can do to contribute to this project.
+### Cardiovascular Heart Health
+-  Bike Ride
+-  Ultimate Frisbee
+-  Track Workout
 
- 1. **Report a bug** <br>
- If you think you have encountered a bug, and I should know about it, feel free to report it [here]() and I will take care of it.
+### Alternatives
+Build your own workout!
 
- 2. **Request a feature** <br>
- You can also request for a feature [here](), and if it will viable, it will be picked for development.  
-
- 3. **Create a pull request** <br>
- It can't get better then this, your pull request will be appreciated by the community. You can get started by picking up any open issues from [here]() and make a pull request.
-
- > If you are new to open-source, make sure to check read more about it [here](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) and learn more about creating a pull request [here](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github).
-
-
- ### :cactus: Branches
-
- I use an agile continuous integration methodology, so the version is frequently updated and development is really fast.
-
-1. **`stage`** is the development branch.
-
-2. **`master`** is the production branch.
-
-3. No other permanent branches should be created in the main repository, you can create feature branches but they should get merged with the master.
-
-**Steps to work with feature branch**
-
-1. To start working on a new feature, create a new branch prefixed with `feat` and followed by feature name. (ie. `feat-FEATURE-NAME`)
-2. Once you are done with your changes, you can raise PR.
-
-**Steps to create a pull request**
-
-1. Make a PR to `stage` branch.
-2. Comply with the best practices and guidelines e.g. where the PR concerns visual elements it should have an image showing the effect.
-3. It must pass all continuous integration checks and get positive reviews.
-
-After this, changes will be merged.
+### Takeaway/Conclusion
+Build your own workout!
 
 
-### :exclamation: Guideline
-coding guidelines or other things you want people to follow should follow.
-
-
-## :question: FAQ
-You can optionally add a FAQ section about the project.
-
-##  :page_facing_up: Resources
-Add important resources here
-
-##  :camera: Gallery
-Pictures of your project.
-
-## :star2: Credit/Acknowledgment
+### :star2: Credit/Acknowledgment
 Credit the authors here.
+- https://www.aworkoutroutine.com/upper-lower-split/
+- https://www.strongerbyscience.com/neglected-movements-muscles/
+- https://www.healthline.com/health/fitness/leg-workout#warmup-cooldown
+- Build your own workout
+
 
 ##  :lock: License
 Add a license here, or a link to it.
