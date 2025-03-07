@@ -110,11 +110,11 @@ I'm a Mechanical Engineer at the University of Washington building my version of
 </details>
 <!-------------------------------------------------------------------------------------------------------------------->
 <details>
-    <summary>💭<b> Random Thoughts</b></summary><br/>
+    <summary>💭<b> Random </b></summary><br/>
 
 <!-- BLOG-POST-LIST:START -->
 - [My Experience as Maintainer for Hacktoberfest 2021]
-- [7 Helpful
+- [An Engineer's Approach to Working Out](https://dev.to/warengonzaga/github-codespaces-1i8k)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
