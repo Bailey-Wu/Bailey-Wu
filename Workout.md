@@ -1,15 +1,14 @@
 # Introduction
-- Add your project logo.
-- Write a short introduction to the project.
-- If you are using badges, add them here.
+- The purpose of this page is to create a space that helps me structure my fitness routine and improve my workout sessions.
+- An Engineer's Approach to working out
 
 ## :ledger: Index
 
 - [About](#beginner-about)
-- [Usage](#zap-usage)
-  - [Installation](#electric_plug-installation)
-  - [Commands](#package-commands)
-- [Development](#wrench-development)
+- [Motivation](#zap-usage)
+- [Routine](#wrench-development)
+- [Equipment](#wrench-development)
+- [Workout](#wrench-development)
   - [Pre-Requisites](#notebook-pre-requisites)
   - [Developmen Environment](#nut_and_bolt-development-environment)
   - [File Structure](#file_folder-file-structure)
@@ -26,35 +25,52 @@
 - [License](#lock-license)
 
 ##  :beginner: About
-Add a detailed introduction about the project here, everything you want the reader to know.
+Quick disclaimer: I am not a personal trainer 
+But with so much information on working out, I found it overwhelming to understand what I wanted to get out of working out and what exercises matters to me. 
 
-## :zap: Usage
-Write about how to use this project.
+## :zap: Why working out? 
+I think the first important step I took was asking myself why I wanted to work out and I came up with the following: 
+- Run Faster & Jump Higher to be able to make cool plays in Ultimate Frisbee
+- Build strength to prevent injuries
+- Build good health habits before I reach old age
+- 
+By laying out my motivations, it helped me identify what the reasons were for working out and establish the overall big picture that would lead to my workout routine
 
-###  :electric_plug: Installation
-- Steps on how to install this project, to use it.
-- Be very detailed here, For example, if you have tools which run on different operating systems, write installation steps for all of them.
+##  :wrench: Routine
+The next step I took was to identify how working out was going to fit into my life. How often was I determined to work out for? Where would I fit it in my calendar? I found it helpful to establish a weekly routine: 
 
-```
-$ add installations steps if you have to.
-```
+| Day       | Activity        |
+|-----------|------------------|
+| Monday    | Upper Body                  |
+| Tuesday   | Frisbee / Cardio                 |
+| Wednesday | Abs                 |
+| Thursday  | Lower Body                 |
+| Friday    | Recovery Day                 |
+| Saturday  | Frisbee / Cardio                 |
+| Sunday    | Floater                 |
 
-###  :package: Commands
-- Commands to start the project.
+I think it's okay to deviate from the plan if life moments happen but establishing this routine gave me a general idea of how often I was willing to dedicate to working out. What also helped was adding a "Floater" Day in case I needed to shift my week due to an event. 
 
-##  :wrench: Development
-If you want other people to contribute to this project, this is the section, make sure you always add this.
+##  :wrench: Equipment
+Next step was understanding what workout equipment I had available: Home equipment? Gym? Free weights? 
+I decided to get a gym membership close to my work so I could go there after work and avoid the post-work traffic. 
 
-### :notebook: Pre-Requisites
-List all the pre-requisites the system needs to develop this project.
-- A tool
-- B tool
+##  :wrench: Workout
+Once I established my time and equipment, I wanted to understand how I would structure my workouts. I decided to set two gym days: 1 for Upper Body and 1 for Lower Body. Then the Abs and Cardio days I can do at home or outside the gym. 
 
-###  :nut_and_bolt: Development Environment
-Write about setting up the working environment for your project.
-- How to download the project...
-- How to install dependencies...
+### :notebook: Upper Body
+Based on what I've found, a good upper body workout involves working the following muscle groups
+-  Chest: 2 exercises
+-  Back: 2 exercises
+-  Shoulders: 1 exercise
+-  Biceps: 1 exercise
+-  Triceps: 1 exercise
 
+###  :nut_and_bolt: Lower Body
+-  Quads: 1-2 exercises
+-  Hamstrings: 1-2 exercises
+-  Glutes: 0-1 exercise
+-  Calves: 1-2 exercises
 
 ###  :file_folder: File Structure
 Add a file structure here with the basic details about files, below is an example.
@@ -90,9 +106,39 @@ Write the build Instruction here.
 ### :rocket: Deployment
 Write the deployment instruction here.
 
-## :cherry_blossom: Community
+## :cherry_blossom: Favorite Templates
 
-If it's open-source, talk about the community here, ask social media links and other links.
+Upper Body
+Warm Up: 
+-  Lateral Band
+-  Roll Out with Foam Roller
+-  Dynamic Stretching on Pull-Up bar
+
+| Muscle Group | Primary Activity | Secondary Activities |
+|----------    |----------|----------|
+| Chest #1     | Bench Press   | Dumbbell Press   |
+| Chest #2     | Data 1   | Push-Ups   |
+| Back #1      | Barbell Row   | Pull Ups   |
+| Back #1      | Single Arm Dumbbell Row  | Data 2   |
+| Shoulder #1  | Seated Dumbbell Press   | Data 2   |
+| Biceps #1    | Dumbell Curls   | Data 2   |
+| Triceps #1   | Overhead Dumbbell Tricep Extension   | Data 2   |
+
+Lower Body
+Warm Up: 
+-  Lateral Band
+-  Roll Out with Foam Roller
+-  Dynamic Stretching
+
+| Muscle Group | Primary Activity | Secondary Activities |
+|----------    |----------|----------|
+| Chest #1     | Bench Press   | Dumbbell Press   |
+| Chest #2     | Data 1   | Push-Ups   |
+| Back #1      | Barbell Row   | Pull Ups   |
+| Back #1      | Single Arm Dumbbell Row  | Data 2   |
+| Shoulder #1  | Seated Dumbbell Press   | Data 2   |
+| Biceps #1    | Dumbell Curls   | Data 2   |
+| Triceps #1   | Overhead Dumbbell Tricep Extension   | Data 2   |
 
  ###  :fire: Contribution
 
