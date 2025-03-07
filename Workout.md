@@ -6,13 +6,12 @@
 
 - [About](#beginner-about)
 - [Motivation](#zap-usage)
-- [Routine](#wrench-development)
-- [Equipment](#wrench-development)
+- [Routine](#wrench-Routine)
+- [Equipment](#wrench-Equipment)
 - [Workout](#wrench-workout)
 - [Example Template](#cherry_blossom-example-templates)
-  - [Contribution](#fire-contribution)
-  - [Branches](#cactus-branches)
-  - [Guideline](#exclamation-guideline)  
+  - [Upper Body](#Upper-Body)
+  - [Lower Body](#Lower-Body)
 - [Credit/Acknowledgment](#star2-creditacknowledgment)
 
 ##  :beginner: About
@@ -56,12 +55,6 @@ Based on what I've found, a good upper body workout involves working the followi
 -  Shoulders: 1 exercise
 -  Biceps: 1 exercise
 -  Triceps: 1 exercise
-
-###  :nut_and_bolt: Lower Body
--  Quads: 1-2 exercises
--  Hamstrings: 1-2 exercises
--  Glutes: 0-1 exercise
--  Calves: 1-2 exercises
 
 ###  :nut_and_bolt: Lower Body
 -  Quads: 1-2 exercises
