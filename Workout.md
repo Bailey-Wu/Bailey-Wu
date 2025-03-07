@@ -73,7 +73,7 @@ Based on what I've found, a good upper body workout involves working the followi
 
 ### Upper Body
 Warm Up: 
--  Lateral Band
+-  Resistance Band
 -  Roll Out with Foam Roller
 -  Dynamic Stretching on Pull-Up bar
 
@@ -83,13 +83,13 @@ Warm Up:
 | Chest #2     | Lat Pull Down                        | Push-Ups   |
 | Back #1      | Barbell Row                          | Pull Ups   |
 | Back #2      | Single Arm Dumbbell Row              | Pull Ups   |
-| Shoulder #1  | Seated Dumbbell Press                | Lateral Raise    |
-| Biceps #1    | Dumbell Curls                        | Chin Ups   |
-| Triceps #1   | Overhead Dumbbell Tricep Extension   | Seated Bench Dips   |
+| Shoulder     | Seated Dumbbell Press                | Lateral Raise    |
+| Biceps       | Dumbell Curls                        | Chin Ups   |
+| Triceps      | Overhead Dumbbell Tricep Extension   | Seated Bench Dips   |
 
 ### Lower Body
 Warm Up: 
--  Lateral Band
+-  Lateral Band Movement
 -  Roll Out with Foam Roller
 -  Dynamic Stretching
 
@@ -99,6 +99,8 @@ Warm Up:
 | Hamstrings   | Deadlifts   | Single-leg deadlift  |
 | Glutes       | Leg Lunges  | Bulgarian split squat  |
 | Calves       | Calf Raises  | N/A |
+| Dynamic      | Vertical Jumps  | Broad Jumps |
+| General      | Leg Machines  | N/A |
 
 ### Abs
 -  Workout Video 1
