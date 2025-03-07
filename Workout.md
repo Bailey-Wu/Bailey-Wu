@@ -8,7 +8,7 @@
 - [Motivation](#zap-usage)
 - [Routine](#wrench-development)
 - [Equipment](#wrench-development)
-- [Workout](#wrench-development)
+- [Workout](#wrench-workout)
   - [Pre-Requisites](#notebook-pre-requisites)
   - [Developmen Environment](#nut_and_bolt-development-environment)
   - [File Structure](#file_folder-file-structure)
