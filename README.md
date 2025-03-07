@@ -114,7 +114,7 @@ I'm a Mechanical Engineer at the University of Washington building my version of
 
 <!-- BLOG-POST-LIST:START -->
 - [My Experience as Maintainer for Hacktoberfest 2021]
-- [An Engineer's Approach to Working Out](https://dev.to/warengonzaga/github-codespaces-1i8k)
+- [An Engineer's Approach to Working Out](Workout.md)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
