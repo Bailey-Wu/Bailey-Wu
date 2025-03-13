@@ -1,6 +1,5 @@
 # Introduction
-- The purpose of this page is to create a space that helps me structure my fitness routine and improve my workout sessions.
-- An Engineer's Approach to working out
+The purpose of this page is to create a space that helps me organize and document my workout experiences, providing a structured approach to my fitness routine. By sharing my insights and lessons learned, I hope to offer valuable information that others may find helpful in their own fitness journeys. 
 
 ## :ledger: Index
 
@@ -9,22 +8,31 @@
 - [Routine](#wrench-Routine)
 - [Equipment](#wrench-Equipment)
 - [Workout](#wrench-workout)
-- [Example Template](#cherry_blossom-example-templates)
+- [Example Templates](#cherry_blossom-example-templates)
   - [Upper Body](#Upper-Body)
   - [Lower Body](#Lower-Body)
 - [Credit/Acknowledgment](#star2-creditacknowledgment)
 
 ##  :beginner: About
-Quick disclaimer: I am not a personal trainer 
-But with so much information on working out, I found it overwhelming to understand what I wanted to get out of working out and what exercises matters to me. 
+Disclaimer: I want to clarify that I am not a personal trainer. With the vast amount of information available on workout regimes, I often felt overwhelmed trying to determine my fitness goals and which exercises would be most beneficial for me. This is why I decided to create a personalized space to share my own experiences and insights, as they may resonate with others navigating similar challenges.
 
 ## :zap: Why working out? 
-I think the first important step I took was asking myself why I wanted to work out and I came up with the following: 
-- Run Faster & Jump Higher to be able to make cool plays in Ultimate Frisbee
-- Build strength to prevent injuries
-- Build good health habits before I reach old age
-- 
-By laying out my motivations, it helped me identify what the reasons were for working out and establish the overall big picture that would lead to my workout routine
+The first important step I took was reflecting on my motivations for working out. I identified my main reasons for my fitness journey:
+-  To run faster and jump higher, enabling me to compete at higher levels of Ultimate Frisbee
+-  To build strength and reduce the risk of injuries
+-  To cultivate healthy habits that will benefit me as I age
+
+By clearly outlining my motivations, I was able to understand the underlying reasons for my workouts and create a comprehensive vision that would guide my fitness routine.
+Here is a simple flow chart:
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
 
 ##  :wrench: Routine
 The next step I took was to identify how working out was going to fit into my life. How often was I determined to work out for? Where would I fit it in my calendar? I found it helpful to establish a weekly routine: 
