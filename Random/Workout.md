@@ -5,12 +5,14 @@ The purpose of this page is to create a space that helps me organize and documen
 
 - [About](#beginner-about)
 - [Motivation](#zap-defining-motivation)
-- [Routine](#wrench-Routine)
-- [Equipment](#wrench-Equipment)
-- [Workout](#wrench-workout)
-- [Example Templates](#cherry_blossom-example-templates)
-  - [Upper Body](#Upper-Body)
-  - [Lower Body](#Lower-Body)
+- [Routine](#clock1-routine)
+- [Equipment](#wrench-equipment)
+- [Workout](#nut_and_bolt-workout)
+- [Example Templates](#hammer-example-templates)
+  - [Upper Body](#upper-body)
+  - [Lower Body](#lower-body)
+  - [Abs](#abs)
+- [Alternatives](#alternatives)
 - [Credit/Acknowledgment](#star2-creditacknowledgment)
 
 ##  :beginner: About
@@ -34,7 +36,7 @@ flowchart LR;
 ```
 By clearly outlining my motivations, I was able to understand the underlying reasons for my workouts and create a comprehensive vision that would guide my fitness routine.
 
-##  :wrench: Routine
+##  :clock1: Routine
 The next step I took was to assess how I could incorporate working out into my daily life and how frequently I was committed to adding exercise into my schedule.
 
 | Day       | Activity        |
@@ -52,10 +54,10 @@ I believe it's perfectly fine to adjust the plan when life events arise. However
 ##  :wrench: Equipment
 The next step was to assess the workout equipment I had at my disposal: Did I have any home equipment? Access to a gym? Free weights? I ultimately decided to get a gym membership near my workplace, allowing me to go there after work and bypass the post-work traffic.
 
-##  :wrench: Workout
+##  :nut_and_bolt: Workout
 Once I established my time and equipment, I wanted to understand how I would structure my workouts. I decided to set two gym days: 1 for Upper Body and 1 for Lower Body. Then the Abs and Cardio days I can do at home or outside the gym. 
 
-### :notebook: Upper Body
+### :nut_and_bolt: Upper Body
 Based on what I've found, a good upper body workout involves working the following muscle groups
 -  Chest: 2 exercises
 -  Back: 2 exercises
@@ -69,7 +71,7 @@ Based on what I've found, a good upper body workout involves working the followi
 -  Glutes: 0-1 exercise
 -  Calves: 1-2 exercises
 
-## :cherry_blossom: Example Templates
+## :hammer: Example Templates
 
 ### Upper Body
 Warm Up: 
@@ -103,12 +105,12 @@ Warm Up:
 | General      | Leg Machines  | N/A |
 
 ### Abs
--  Workout Video 1
--  Workout Video 2
--  Workout Video 3
+-  [Workout Video 1: Fraser Wilson](https://www.youtube.com/watch?v=9p7-YC91Q74)
+-  [Workout Video 2: Pamela Reif](https://www.youtube.com/watch?v=AnYl6Nk9GOA)
+-  [Workout Video 3: Yoga with Adreinne](https://www.youtube.com/watch?v=CRKmB-78elI)
 -  Dynamic Stretching
 
-### Cardiovascular Heart Health
+### Cardiovascular Endurance
 -  Bike Ride
 -  Ultimate Frisbee
 -  Track Workout
