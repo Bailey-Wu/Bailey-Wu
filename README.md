@@ -89,7 +89,7 @@ I'm a Mechanical Engineer at the University of Washington building my version of
 
 <!-- BLOG-POST-LIST:START -->
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-    <img src="Random/Timelapses/Death_Valley_ZabrinskiePt_h264-420_BT2020L_1080p_29.97_HQ.gif?width=600&auto=webp&s=2f33c6b08118b64bc0cbeb69d11173b48fa7e10b" width="300" />
+    [<img src="Random/Timelapses/Death_Valley_ZabrinskiePt_h264-420_BT2020L_1080p_29.97_HQ.gif?width=600&auto=webp&s=2f33c6b08118b64bc0cbeb69d11173b48fa7e10b" width="300">](https://youtu.be/f_EJFAr6lng)
     <img src="Random/Timelapses/SF_Bridge_Sunrise.gif?width=600&auto=webp&s=2f33c6b08118b64bc0cbeb69d11173b48fa7e10b" width="300" />
     <img src="Random/Timelapses/Big_Sur_11262023_h264-420_BT2020L_1080p_29.97_HQ.gif?width=600&auto=webp&s=2f33c6b08118b64bc0cbeb69d11173b48fa7e10b" width="300" />
 </div>
