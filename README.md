@@ -89,7 +89,7 @@ I'm a Mechanical Engineer at the University of Washington building my version of
 
 <!-- BLOG-POST-LIST:START -->
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-    <img src="https://preview.redd.it/some-random-gifs-from-my-stop-motion-video-game-v0-nm7f8579fnjb1.gif?width=600&auto=webp&s=2f33c6b08118b64bc0cbeb69d11173b48fa7e10b" alt="Description 1" width="300" />
+    <img src="Random/Timelapses/Death_Valley_ZabrinskiePt_h264-420_BT2020L_1080p_29.97_HQ.gif?width=600&auto=webp&s=2f33c6b08118b64bc0cbeb69d11173b48fa7e10b" alt="Description 1" width="300" />
     <img src="https://preview.redd.it/some-random-gifs-from-my-stop-motion-video-game-v0-nm7f8579fnjb1.gif?width=600&auto=webp&s=2f33c6b08118b64bc0cbeb69d11173b48fa7e10b" alt="Description 2" width="300" />
     <img src="https://github.com/Bailey-Wu/Bailey-Wu/blob/main/US%20National%20Parks.JPG?raw=true" alt="Description 4" width="300" />
 </div>
