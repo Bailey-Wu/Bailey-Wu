@@ -4,6 +4,7 @@
 ---
 ### Project: Airplane Identification Summary
 [Project Link](https://github.com/Bailey-Wu/Bailey-Wu/blob/main/Portfolio/Airplane%20Identification.md)
+Due Date: 3/28/25 5PM
 ```mermaid
 kanban
   [To Do]
@@ -14,6 +15,8 @@ kanban
     [Compile Resources]
   [In progress]
     [Break Down Planes by Category]
+    [Plane Features - Text]
+    [Plane Features - Diagram]
   [Ready for deploy]
     [Purpose]
   [Ready for test]
