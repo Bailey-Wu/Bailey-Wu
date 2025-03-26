@@ -1,5 +1,5 @@
 ## Purpose ✈️
-Identifying commercial jet airliners can be an exciting endeavor for aviation enthusiasts and casual observers alike. With a variety of models in service, each with unique characteristics, knowing what to look for can enhance your appreciation of these flying machines. After working for an airplane manufacturer, I wanted create a guide that helps quickly identify commercial airplanes.
+Spotting commercial jet airliners is a fun hobby for both aviation buffs and anyone who just loves watching planes. There are so many different models out there, each with its own cool features, and knowing what to look for can really amp up your appreciation for these flying machines. After spending some time working for an airplane manufacturer, I thought it’d be helpful to put together a quick guide to easily identify commercial airplanes.
 
 ## Plane Size
 There are various commericial airplanes flying but for simplicity purposes, airplanes are categorized by size: Narrow-Body, Wide-Body, Jumbo-Jet
