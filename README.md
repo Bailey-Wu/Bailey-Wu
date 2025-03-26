@@ -11,7 +11,11 @@ I'm a Mechanical Engineer at the University of Washington building my version of
 <a href="mailto:baileywu@uw.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
 ---
+### Personal Dashboard
+**`Organizing my life and tracking my project progress`**
 
+
+---
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
