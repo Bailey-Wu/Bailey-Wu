@@ -3,7 +3,7 @@
 
 ---
 ### Project: Airplane Identification Summary
-[Project Link](Portfolio/Airplane_Identification.md)
+[Project Link](https://github.com/Bailey-Wu/Bailey-Wu/blob/main/Portfolio/Airplane%20Identification.md)
 ```mermaid
 kanban
   [To Do]
