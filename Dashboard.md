@@ -6,16 +6,15 @@
 ```mermaid
 kanban
   [To Do]
-    [Break Down Planes by Category]
     [Identification Chart]
     [Pie Chart]
     [Quizzes]
     [Conclusion]
     [Compile Resources]
   [In progress]
-    [Purpose]
+    [Break Down Planes by Category]
   [Ready for deploy]
-    [TBD]
+    [Purpose]
   [Ready for test]
     [TBD]
   [Done]
