@@ -8,7 +8,7 @@ Due Date: 3/28/25 5PM
 ```mermaid
 kanban
   [To Do]
-    [Identification Chart]
+    [Feature Chart]
     [Fleet Pie Chart]
     [Quizzes]
     [Conclusion]
