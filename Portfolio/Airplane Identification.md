@@ -4,6 +4,13 @@ Spotting commercial jet airliners is a fun hobby for both aviation buffs and any
 ## Plane Size
 There are various commericial airplanes flying but for simplicity purposes, airplanes are categorized by size: Narrow-Body, Wide-Body, Jumbo-Jet
 
+| Narrow-Body   | Wide-Body            | Quad Engine Wide-Body |
+|----------    |----------           |----------|
+| Chest #1     | Bench Press         | Dumbbell Press   |
+| Chest #2     | Lat Pull Down       | Push-Ups   |
+| Back #1      | Barbell Row         | Pull Ups   |
+
+
 ## Features of Plane
 Before getting into how to distinguish these airplanes, it’s important to establish the features of an airplane. 
 
