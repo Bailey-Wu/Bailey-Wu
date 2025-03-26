@@ -12,7 +12,7 @@ I'm a Mechanical Engineer at the University of Washington building my version of
 
 ---
 ### Personal Dashboard
-**`Organizing my life and tracking my project progress`**
+[**`Organizing my life and tracking my project progress`**](Dashboard.md)
 
 
 ---
