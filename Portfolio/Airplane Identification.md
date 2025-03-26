@@ -1,18 +1,30 @@
-# Introduction
-The purpose of this page is to create a space that helps me organize and document my workout experiences, providing a structured approach to my fitness routine. By sharing my insights and lessons learned, I hope to offer valuable information that others may find helpful in their own fitness journeys. 
+## Purpose ✈️
+Identifying commercial jet airliners can be an exciting endeavor for aviation enthusiasts and casual observers alike. With a variety of models in service, each with unique characteristics, knowing what to look for can enhance your appreciation of these flying machines. After working for an airplane manufacturer, I wanted create a guide that helps quickly identify commercial airplanes.
+
+## Plane Size
+There are various commericial airplanes flying but for simplicity purposes, airplanes are categorized by size: Narrow-Body, Wide-Body, Jumbo-Jet
+
+## Features of Plane
+Before getting into how to distinguish these airplanes, it’s important to establish the features of an airplane. 
+
+## Distinct Features
+Each airplane has different features
+Here are some examples of what to look out for
 
 
+## Pie Chart of American Airliner Fleet
+Another way to determine a plane is to understand each airliner’s fleet 
+
+## My Personal Flow Diagram
+Another way to determine a plane is to understand each airliner’s fleet 
 
 
+## Conclusion: 
+Next time youre at an airport and wondering what airplanes, feel free to use this guide. 
+
+## :star2: Credit/Acknowledgment
 
 
-
-
-
-
-
-# Introduction
-The purpose of this page is to create a space that helps me organize and document my workout experiences, providing a structured approach to my fitness routine. By sharing my insights and lessons learned, I hope to offer valuable information that others may find helpful in their own fitness journeys. 
 
 ## :ledger: Index
 
