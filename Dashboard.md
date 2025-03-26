@@ -3,6 +3,7 @@
 
 ---
 ### Project: Airplane Identification Summary
+[Project Link](Portfolio/Airplane_Identification.md)
 ```mermaid
 kanban
   [To Do]
