@@ -1,3 +1,63 @@
----
 ### Personal Dashboard
 **`Organizing my life and tracking my project progress`**
+
+---
+### Personal To Do List
+```mermaid
+%%{init: {'theme':'forest'}}%%
+kanban
+  [Personal]
+    [Record Writing Video Shots]
+    [Lessons Learned from Moving]
+    [Top 5 Video]
+  [School]
+    [UW Masters Degree Recap]
+  [Career]
+    [Interview Yourself]
+    [Plane Identification]
+    [How Infrared Works]
+  [Life]
+    [Car Registration & Smog Check]
+    [Register for SEA2POR Race & Text Drew]
+    [Cascades Promo Message]
+  [Completed]
+    [Create Documentation]
+    [Create Blog about the new diagram]
+```
+
+---
+### Project: Airplane Identification Summary
+```mermaid
+kanban
+  [To Do]
+    [Record Writing Video Shots]
+  [In progress]
+    [Record Writing Video Shots]
+  [Ready for deploy]
+    [Record Writing Video Shots]
+  [Ready for test]
+    [Record Writing Video Shots]
+  [Done]
+    [Record Writing Video Shots]
+```
+
+```mermaid
+kanban
+  Todo
+    [Create Documentation]
+    [Create Blog about the new diagram]
+  [In progress]
+    [Create renderer so that it works in all cases. We also add som extra text here for testing purposes. And some more just for the extra flare.]
+  [Ready for deploy]
+    [Design grammar]@{ assigned: 'knsv' }
+  [Ready for test]
+    [Create parsing tests]@{ ticket: MC-2038, assigned: 'K.Sveidqvist', priority: 'High' }
+    [last item]@{ priority: 'Very Low', assigned: 'knsv' }
+  [Done]
+    [define getData]
+    [Title of diagram is more than 100 chars when user duplicates diagram with 100 char]@{ ticket: MC-2036, priority: 'Very High'}
+    [Update DB function]@{ ticket: MC-2037, assigned: knsv, priority: 'High' }
+
+  id12[Can't reproduce]
+    id3[Weird flickering in Firefox]
+```
