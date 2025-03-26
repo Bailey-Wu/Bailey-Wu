@@ -35,6 +35,7 @@ kanban
     [Top 5 Video]
   [School]
     [UW Masters Degree Recap]
+    [3D Printing Phase]
   [Career]
     [Interview Yourself]
     [Plane Identification]
