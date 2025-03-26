@@ -2,6 +2,29 @@
 **`Organizing my life and tracking my project progress`**
 
 ---
+### Project: Airplane Identification Summary
+```mermaid
+kanban
+  [To Do]
+    [Purpose]
+    [Break Down Planes by Category]
+    [Identification Chart]
+    [Pie Chart]
+    [Quizzes]
+    [Conclusion]
+    [Compile Resources]
+  [In progress]
+    [TBD]
+  [Ready for deploy]
+    [TBD]
+  [Ready for test]
+    [TBD]
+  [Done]
+    [TBD]
+```
+
+
+---
 ### Personal To Do List
 ```mermaid
 %%{init: {'theme':'forest'}}%%
@@ -25,22 +48,8 @@ kanban
     [Create Blog about the new diagram]
 ```
 
----
-### Project: Airplane Identification Summary
-```mermaid
-kanban
-  [To Do]
-    [Record Writing Video Shots]
-  [In progress]
-    [Record Writing Video Shots]
-  [Ready for deploy]
-    [Record Writing Video Shots]
-  [Ready for test]
-    [Record Writing Video Shots]
-  [Done]
-    [Record Writing Video Shots]
-```
 
+---
 ```mermaid
 kanban
   Todo
