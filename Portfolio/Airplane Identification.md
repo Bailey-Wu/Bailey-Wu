@@ -1,7 +1,7 @@
 ## Purpose ✈️
 With the large variety of airliners serving the worldwide transportation market today, identification of individual aircraft manufacturers and planes can be a bit tricky. After spending some time working for an airplane manufacturer, I thought it’d be helpful to share some of the tricks I've learned and put together a quick guide to easily identify commercial airplanes.
 
-## Plane Size
+## Categorizing Airplanes
 There are tons of commercial airplanes in the sky, but to keep things simple, we’ll focus on just two types: Narrow-Body and Wide-Body jets.
 
 Check out this table showcasing examples of each type of plane from Airbus, Boeing, and other manufacturers: 
@@ -12,25 +12,37 @@ Check out this table showcasing examples of each type of plane from Airbus, Boei
 | Back #1      | Barbell Row         | Pull Ups   |
 
 
-## Features of Plane
+## Features of an Airplane
 To spot a specific plane, it’s important to get familiar with the terminology related to different airplane features.
+
+<img src="Projects/Airplane_Identification_Files/Airplane_Features.PNG" alt="Airplane Features" width="700" />
 
 Here is a link to learn more about additional airplane features.
 
 ## Distinct Features
-Each airplane has different features
-Here are some examples of what to look out for
+Some airplanes have unique features that help distinguish them from others. Here are a few examples:
 
+[Cockpit Nose Shape] 
+
+[Engine Shape]
+
+[Dorsal Fin] 
+
+[Cowlings] 
+
+[Racoon Mask Window] 
+
+Here is a spreadsheet in my best attempt to compile airplanes and their features 
 
 ## Pie Chart of American Airliner Fleet
-Another way to determine a plane is to understand each airliner’s fleet 
+Another way to identify a plane is by understanding the fleets of each airliner. We’ll focus on the major American-based airlines like Delta, American, Southwest, and Alaska.
 
-## My Personal Flow Diagram
-Another way to determine a plane is to understand each airliner’s fleet 
+## My Personal Decision Tree
+Here’s my decision tree for identifying airplanes
 
 
-## Conclusion: 
-Next time youre at an airport and wondering what airplanes, feel free to use this guide. 
+## Conclusion
+The next time you're at an airport and curious about the airplanes around you, don’t hesitate to use this guide! With a little practice, you'll be able to spot different models and impress your friends with your knowledge. So grab your phone, keep an eye on the skies, and enjoy the fascinating world of aviation!
 
 ## :star2: Credit/Acknowledgment
 
