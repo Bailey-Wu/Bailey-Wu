@@ -35,7 +35,9 @@ Some airplanes have unique features that help distinguish them from others. Here
 Here is a spreadsheet in my best attempt to compile airplanes and their features 
 
 ## Pie Chart of American Airliner Fleet
-Another way to identify a plane is by understanding the fleets of each airliner. We’ll focus on the major American-based airlines like Delta, American, Southwest, and Alaska.
+Another way to identify a plane is by understanding the fleets of each airliner. We’ll focus on the major American-based airlines like Delta, United, American, Southwest, and Alaska.
+
+<img src="Projects/Airplane_Identification_Files/American Airline Fleet.PNG" alt="Airplane Features" width="550" />
 
 ## My Personal Decision Tree
 Here’s my decision tree for identifying airplanes
