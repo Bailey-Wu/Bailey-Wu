@@ -39,6 +39,8 @@ Another way to identify a plane is by understanding the fleets of each airliner.
 
 <img src="Projects/Airplane_Identification_Files/American Airline Fleet.PNG" alt="Airplane Features" width="550" />
 
+Based on this chart, if you see a Southwest airplane, it will be either a 737 Next Generation or 737 MAX
+
 ## My Personal Decision Tree
 Here’s my decision tree for identifying airplanes
 
