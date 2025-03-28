@@ -1,9 +1,10 @@
 ## Purpose ✈️
-Spotting commercial jet airliners is a fun hobby for both aviation buffs and anyone who just loves watching planes. There are so many different models out there, each with its own cool features, and knowing what to look for can really amp up your appreciation for these flying machines. After spending some time working for an airplane manufacturer, I thought it’d be helpful to put together a quick guide to easily identify commercial airplanes.
+With the large variety of airliners serving the worldwide transportation market today, identification of individual aircraft manufacturers and planes can be a bit tricky. After spending some time working for an airplane manufacturer, I thought it’d be helpful to share some of the tricks I've learned and put together a quick guide to easily identify commercial airplanes.
 
 ## Plane Size
-There are various commericial airplanes flying but for simplicity purposes, airplanes are categorized by size: Narrow-Body, Wide-Body, Jumbo-Jet
+There are tons of commercial airplanes in the sky, but to keep things simple, we’ll focus on just two types: Narrow-Body and Wide-Body jets.
 
+Check out this table showcasing examples of each type of plane from Airbus, Boeing, and other manufacturers: 
 | Narrow-Body   | Wide-Body            | Quad Engine Wide-Body |
 |----------    |----------           |----------|
 | Chest #1     | Bench Press         | Dumbbell Press   |
@@ -12,7 +13,9 @@ There are various commericial airplanes flying but for simplicity purposes, airp
 
 
 ## Features of Plane
-Before getting into how to distinguish these airplanes, it’s important to establish the features of an airplane. 
+To spot a specific plane, it’s important to get familiar with the terminology related to different airplane features.
+
+Here is a link to learn more about additional airplane features.
 
 ## Distinct Features
 Each airplane has different features
