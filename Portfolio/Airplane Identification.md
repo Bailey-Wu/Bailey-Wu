@@ -22,15 +22,22 @@ Here is a link to learn more about additional airplane features.
 ## Distinct Features
 Some airplanes have unique features that help distinguish them from others. Here are a few examples:
 
-[Cockpit Nose Shape] 
 
-[Engine Shape]
+### Different Nose Shapes
+<img src="Projects/Airplane_Identification_Files/Airplane_Features_Nose.PNG" alt="Airplane Nose" width="500" />
 
-[Dorsal Fin] 
+### Winglet Shapes
+<img src="Projects/Airplane_Identification_Files/Airplane_Features_Winglets.jpg" alt="Airplane Winglets" width="400" />
 
-[Cowlings] 
+### Empennage Shapes
+<img src="Projects/Airplane_Identification_Files/Airplane_Features_Tail.PNG" alt="Airplane Tails" width="400" />
 
-[Racoon Mask Window] 
+### 787 Serrated Nacelle Covers 
+<img src="Projects/Airplane_Identification_Files/Airplane_Features_Cowling.PNG" alt="Airplane Cowling" width="400" />
+
+### A350 "Zorro" Mask Window
+<img src="Projects/Airplane_Identification_Files/A350 Zorro Mask.jpg" alt="Airplane Zorro Mask" width="400" />
+
 
 Here is a spreadsheet in my best attempt to compile airplanes and their features 
 
