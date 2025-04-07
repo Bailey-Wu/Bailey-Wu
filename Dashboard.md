@@ -44,11 +44,11 @@ kanban
     [How Infrared Works]
   [Life]
     [Car Registration & Smog Check]
-    [Register for SEA2POR Race & Text Drew]
-    [Cascades Promo Message]
   [Completed]
     [Create Documentation]
     [Create Blog about the new diagram]
+    [Register for SEA2POR Race & Text Drew]
+    [Cascades Promo Message]
 ```
 
 ### Save for Later
