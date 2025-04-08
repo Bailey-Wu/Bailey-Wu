@@ -5,11 +5,8 @@ With the large variety of airliners serving the worldwide transportation market 
 There are tons of commercial airplanes in the sky, but to keep things simple, we’ll focus on just two types: Narrow-Body and Wide-Body jets.
 
 Check out this table showcasing examples of each type of plane from Airbus, Boeing, and other manufacturers: 
-| Narrow-Body   | Wide-Body            | Quad Engine Wide-Body |
-|----------    |----------           |----------|
-| Chest #1     | Bench Press         | Dumbbell Press   |
-| Chest #2     | Lat Pull Down       | Push-Ups   |
-| Back #1      | Barbell Row         | Pull Ups   |
+
+<img src="Projects/Airplane_Identification_Files/Airplane_Categories.PNG" alt="Airplane_Categories" width="400" />
 
 
 ## Features of an Airplane
@@ -41,12 +38,16 @@ Some airplanes have unique features that help distinguish them from others. Here
 
 Here is a spreadsheet in my best attempt to compile airplanes and their features 
 
-## Pie Chart of American Airliner Fleet
-Another way to identify a plane is by understanding the fleets of each airliner. We’ll focus on the major American-based airlines like Delta, United, American, Southwest, and Alaska.
+## Fleet Analysis
+Another way to identify a plane is by getting to know the fleets of different airliners, as each airline company has a diverse range of commercial aircraft that contribute to their fleet size.
+
+<img src="Projects/Airplane_Identification_Files/Airplane_Categories.PNG" alt="Airplane_Categories" width="400" />
 
 <img src="Projects/Airplane_Identification_Files/American Airline Fleet.PNG" alt="Airplane Features" width="550" />
 
-Based on this chart, if you see a Southwest airplane, it will be either a 737 Next Generation or 737 MAX
+<img src="Projects/Airplane_Identification_Files/Global Airline Fleet.PNG" alt="Airplane Features"/>
+
+This chart shows you which airlines prefer Airbus, which ones lean towards Boeing, and which have a balanced mix of both.
 
 ## My Personal Decision Tree
 Here’s my decision tree for identifying airplanes
