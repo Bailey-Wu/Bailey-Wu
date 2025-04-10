@@ -37,7 +37,7 @@ kanban
     [Record Writing Video Shots]
     [Lessons Learned from Moving]
     [Top 5 Video]
-    [Wardobe Analysis]
+    [Wardobe Material Analysis]
   [School]
     [UW Masters Degree Recap]
     [3D Printing Phase]
