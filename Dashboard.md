@@ -38,6 +38,8 @@ kanban
     [Lessons Learned from Moving]
     [Top 5 Video]
     [Wardobe Material Analysis]
+    [Copying Apartment Key Fob]
+    [Making a Cool Award Trophy]
   [School]
     [UW Masters Degree Recap]
     [3D Printing Phase]
