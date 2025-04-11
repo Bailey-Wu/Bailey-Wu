@@ -35,6 +35,8 @@ Some airplanes have unique features that help distinguish them from others. Here
 ### A350 "Zorro" Mask Window
 <img src="Projects/Airplane_Identification_Files/A350 Zorro Mask.jpg" alt="Airplane Zorro Mask" width="400" />
 
+### 737 Next Generation "Scimitar" Winglets
+<img src="Projects/Airplane_Identification_Files/Airplane-Feature-Scimitar-Winglets.jpg" alt="Airplane Zorro Mask" width="400" />
 
 Here is a spreadsheet in my best attempt to compile airplanes and their features 
 
