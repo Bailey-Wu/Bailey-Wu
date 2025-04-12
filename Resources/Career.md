@@ -30,6 +30,11 @@ General/Logistics
 -  Lessons Learned from Industry
 	-  Right Results > Rushed Results 
 
+
+#### Questions to ask  
+-  When was the last time your team celebrated something?
+-  What does success look like for the team or for an individual?
+
 #### Projects 
 -  Star Format
  
