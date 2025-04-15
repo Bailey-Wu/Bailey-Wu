@@ -17,5 +17,15 @@ Fabrics that are man-made materials made from chemicals derived from petroleum, 
 
 ## My Wardobe
 - My Favorite Clothing
-- Pie Chart of Clothing by Body Part
-- Situational Clothing
+Kuhl Sun Hoodie, Patagonia Pants, BE Pivot Pants,
+
+<b> Situational Clothing </b> <br>
+- Playing Frisbee: Polyester
+- Going Out Clothes:
+- Rainy Day:
+- Wedding: 
+
+Pie Chart of Clothing by Body Part
+- Upper Body
+- Lower Body
+- Feet
