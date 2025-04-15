@@ -25,10 +25,6 @@ Kuhl Sun Hoodie, Patagonia Pants, BE Pivot Pants,
 | BE Pivot Pants   | 90% Polyester, 10% Elastane |
 | Darn Tough Socks | Merino Wool with Nylon and Lycra Spandex |
 | Eddie Bauer Long Sleeve  | 93% Polyester, 7% Elastane                 |
-| Friday    | Recovery Day                 |
-| Saturday  | Frisbee / Cardio                 |
-| Sunday    | Floater                 |
-
 
 
 <b> Situational Clothing </b> <br>
