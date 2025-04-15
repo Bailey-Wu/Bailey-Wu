@@ -8,16 +8,17 @@ Due Date: 3/28/25 5PM
 ```mermaid
 kanban
   [To Do]
-    [Personal Decision Tree]
+
     [Conclusion]
     [Compile Resources]
   [In progress]
-    [Airplane Matrix Spreadsheet]
     [Quizzes]
   [Ready for deploy]
     [Purpose]
+    [Personal Decision Tree]
     [Feature Chart]
     [Fleet Pie Chart]
+    [Airplane Matrix Spreadsheet]
     [Break Down Planes by Category]
     [Plane Features - Text]
     [Plane Features - Diagram]
