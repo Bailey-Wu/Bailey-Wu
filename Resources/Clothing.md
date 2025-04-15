@@ -16,24 +16,33 @@ Fabrics that are man-made materials made from chemicals derived from petroleum, 
 -  Microfiber: A soft, smooth, lightweight, and breathable fabric
 
 ## My Wardobe
-- My Favorite Clothing
-Kuhl Sun Hoodie, Patagonia Pants, BE Pivot Pants,
-
+Some of my frequently worn clothing
 | Clothing       | Material        |
 |-----------|------------------|
 | Patagonia Pants    | 	100% Polyester                |
 | BE Pivot Pants   | 90% Polyester, 10% Elastane |
-| Darn Tough Socks | Merino Wool with Nylon and Lycra Spandex |
 | Eddie Bauer Long Sleeve  | 93% Polyester, 7% Elastane                 |
+| Darn Tough Socks | Merino Wool with Nylon and Lycra Spandex |
 
 
 <b> Situational Clothing </b> <br>
-- Playing Frisbee: Polyester
-- Going Out Clothes:
-- Rainy Day:
-- Wedding: 
+- Playing Frisbee: Polyester (Quick Drying & Moisture Wicking)
+- Rainy Day: Nylon Rain Jacket (Rain resistant)
+- Cold Weather Trip: Wool or Down (Insulation and warmth)
+- Wedding: Cotton or Silk (Soft and comfortable)
 
-Pie Chart of Clothing by Body Part
-- Upper Body
-- Lower Body
-- Feet
+
+## Camping / Cold Weather Hiking
+Upper Body
+- Base Layer: Polyester (Lightweight, Moisture-Wicking, Breathable, Dry Sweat Quickly)
+- Mid Layer: Synthetic or Fleece (No Cotton) - Provides insulation between Baselayer and Outer Layer (Ideally Breathable and can still hike in)
+- Insulation Layer (if needed): Down - Can serve as a combination of Mid Layer or Outer Layer
+- Outer Layer: Nylon - Waterproof shell to protect against Rain, Wind, or Snow
+
+Lower Body
+- Base Layer: Polyester (Lightweight, Moisture-Wicking, Breathable, Dry Sweat Quickly)
+- Outer Layer: Nylon - Waterproof shell to protect against Rain, Wind, or Snow
+
+## References / Acknowledgements
+- 
+- https://www.youtube.com/watch?v=8-oTIFDS33U
