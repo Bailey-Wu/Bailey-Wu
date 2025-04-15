@@ -3,8 +3,7 @@ Understanding the material that make up my wardrobe
 
 ## Different Types of Clothing Material
 
-
-
+<img src="Resources/Attachments/Clothing_Spreadsheet.PNG" alt="Clothing Material" />
 
 <b>Cotton</b> <br>
 
