@@ -40,6 +40,7 @@ kanban
     [Wardobe Material Analysis]
     [Copying Apartment Key Fob]
     [Making a Cool Award Trophy]
+    [Project Builds]
   [School]
     [UW Masters Degree Recap]
     [3D Printing Phase]
