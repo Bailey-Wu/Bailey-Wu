@@ -37,7 +37,6 @@ kanban
     [Record Writing Video Shots]
     [Lessons Learned from Moving]
     [Top 5 Video]
-    [Wardobe Material Analysis]
     [Copying Apartment Key Fob]
     [Making a Cool Award Trophy]
     [Project Builds]
@@ -56,6 +55,7 @@ kanban
     [Create Blog about the new diagram]
     [Register for SEA2POR Race & Text Drew]
     [Cascades Promo Message]
+    [Wardobe Material Analysis]
 ```
 
 ### Save for Later
