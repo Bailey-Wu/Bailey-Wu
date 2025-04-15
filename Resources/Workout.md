@@ -116,7 +116,8 @@ Warm Up:
 -  Track Workout
 
 ### Alternatives
-Build your own workout!
+Cool website where you can build your own workout: <br>
+https://musclewiki.com/directory
 
 ### Takeaway/Conclusion
 Build your own workout!
@@ -127,7 +128,7 @@ Credit the authors here.
 - https://www.aworkoutroutine.com/upper-lower-split/
 - https://www.strongerbyscience.com/neglected-movements-muscles/
 - https://www.healthline.com/health/fitness/leg-workout#warmup-cooldown
-- Build your own workout
+- https://musclewiki.com/directory
 
 
 ##  :lock: License
