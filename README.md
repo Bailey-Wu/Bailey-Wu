@@ -119,6 +119,7 @@ I'm a Mechanical Engineer at the University of Washington building my version of
 <!-- BLOG-POST-LIST:START -->
 - [My Experience as Maintainer for Hacktoberfest 2021]
 - [An Engineer's Approach to Working Out](Resources/Workout.md)
+- [What are my clothes made out of?](Resources/Clothing.md)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
