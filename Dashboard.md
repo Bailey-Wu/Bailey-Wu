@@ -57,6 +57,7 @@ kanban
     [Register for SEA2POR Race & Text Drew]
     [Cascades Promo Message]
     [Wardobe Material Analysis]
+    [Rubix Cube Guide]
 ```
 
 ### Save for Later
