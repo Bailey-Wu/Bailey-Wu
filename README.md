@@ -14,7 +14,7 @@ I'm a Mechanical Engineer at the University of Washington building my version of
 ### Personal Dashboard
 [**`Organizing my life and tracking my project progress`**](Dashboard.md)
 
-[Bailey's Weekly Recap](https://github.com/users/Bailey-Wu/projects/3/views/1)
+[Bailey's Weekly Goals](https://github.com/users/Bailey-Wu/projects/3/views/1)
 
 ---
 ### 🧰 Languages and Tools
