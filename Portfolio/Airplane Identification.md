@@ -37,7 +37,7 @@ Some airplanes have unique features that help distinguish them from others. Here
 ### 737 Next Generation "Scimitar" Winglets
 <img src="Projects/Airplane_Identification_Files/Airplane-Feature-Scimitar-Winglets.jpg" alt="Airplane Zorro Mask" width="400" />
 
-Here is a spreadsheet in my best attempt to compile airplanes and their features 
+[Here is a spreadsheet for identifying different airplane by features.](Projects/Airplane_Identification_Files/Airplane_Identification.xlsx)
 
 ## Fleet Analysis
 Another way to identify a plane is by getting to know the fleets of different airliners, as each airline company has a diverse range of commercial aircraft that contribute to their fleet size.
@@ -48,7 +48,7 @@ Another way to identify a plane is by getting to know the fleets of different ai
 
 <img src="Projects/Airplane_Identification_Files/Global Airline Fleet.PNG" alt="Airplane Features"/>
 
-This chart shows you which airlines prefer Airbus, which ones lean towards Boeing, and which have a balanced mix of both.
+These charts show which airlines prefer Airbus, which ones lean towards Boeing, and which have a balanced mix of both.
 
 ## My Personal Decision Tree
 Plane-spotting for beginners: https://form.typeform.com/to/CK7OwWgx
