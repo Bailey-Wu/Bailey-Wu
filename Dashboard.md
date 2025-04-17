@@ -12,6 +12,7 @@
 - Working on Presentation
 - Working on Spreadsheet
 - Consider making a video of presentation
+- Consider Material Samples like Kirch
 
 ### Cool Award Trophy
 [Project Builds Link](Resources/Engineering/ProjectBuilds.md)
