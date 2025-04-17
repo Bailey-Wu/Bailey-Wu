@@ -59,4 +59,4 @@ Plane-spotting for beginners: https://form.typeform.com/to/CK7OwWgx
 The next time you're at an airport and curious about the airplanes around you, don’t hesitate to use this guide! With a little practice, you'll be able to spot different models and impress your friends with your knowledge. So grab your phone, keep an eye on the skies, and enjoy the fascinating world of aviation!
 
 ## :star2: Credit/Acknowledgment
--- https://suitesmile.com/blog/2019/12/27/plane-spotting-for-beginners/
+  - https://suitesmile.com/blog/2019/12/27/plane-spotting-for-beginners/
