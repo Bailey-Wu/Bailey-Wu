@@ -3,8 +3,9 @@
 
 ---
 ### Project: Airplane Identification Summary
-[Project Link](https://github.com/Bailey-Wu/Bailey-Wu/blob/main/Portfolio/Airplane%20Identification.md)
-Due Date: 3/28/25 5PM
+[Project Link](https://github.com/Bailey-Wu/Bailey-Wu/blob/main/Portfolio/Airplane%20Identification.md) <br>
+Due Date: 3/28/25 5PM <br>
+Completion Date: 
 ```mermaid
 kanban
   [To Do]
