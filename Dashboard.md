@@ -8,12 +8,12 @@ Due Date: 3/28/25 5PM
 ```mermaid
 kanban
   [To Do]
-
-    [Conclusion]
-    [Compile Resources]
   [In progress]
     [Quizzes]
   [Ready for deploy]
+  [Ready for test]
+    [TBD]
+  [Done]
     [Purpose]
     [Personal Decision Tree]
     [Feature Chart]
@@ -22,10 +22,8 @@ kanban
     [Break Down Planes by Category]
     [Plane Features - Text]
     [Plane Features - Diagram]
-  [Ready for test]
-    [TBD]
-  [Done]
-    [TBD]
+    [Conclusion]
+    [Compile Resources]
 ```
 
 
