@@ -4,13 +4,13 @@
 ---
 ### Interview Yourself
 [Career Project Link](Resources/Career.md)
-- TBD
-- TBD
+- Listen to podcasts for inspiration
+- Create Important Questions & Script Dialouge
 
 ### Materials Matrix
 [Materials Project Link](Resources/Engineering/Materials.md)
-- TBD
-- TBD
+- Working on Spreadsheet
+- Consider making a video of presentation
 
 ### Cool Award Trophy
 [Project Builds Link](Resources/Engineering/ProjectBuilds.md)
