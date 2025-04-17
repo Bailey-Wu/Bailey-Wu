@@ -2,6 +2,61 @@
 **`Organizing my life and tracking my project progress`**
 
 ---
+### Interview Yourself
+[Career Project Link](Resources/Career.md)
+- TBD
+- TBD
+
+### Materials Matrix
+[Materials Project Link](Resources/Engineering/Materials.md)
+- TBD
+- TBD
+
+### Cool Award Trophy
+[Project Builds Link](Resources/Engineering/ProjectBuilds.md)
+- Switchback Necklaces
+- Cascades Resin Award Trophy
+- TBD
+
+---
+### Personal To Do List
+```mermaid
+%%{init: {'theme':'forest'}}%%
+kanban
+  [Personal]
+    [Record Writing Video Shots]
+    [Lessons Learned from Moving]
+    [Top 5 Video]
+    [Copying Apartment Key Fob]
+    [Making a Cool Award Trophy]
+    [Project Builds]
+  [School]
+    [UW Masters Degree Recap]
+    [3D Printing Phase]
+  [Career]
+    [Interview Yourself]
+    [How Infrared Works]
+    [Materials Matrix]
+  [Life]
+    [Car Registration & Smog Check]
+  [Completed]
+    [Create Documentation]
+    [Create Blog about the new diagram]
+    [Register for SEA2POR Race & Text Drew]
+    [Cascades Promo Message]
+    [Wardobe Material Analysis]
+    [Rubix Cube Guide]
+    [Plane Identification 4/17/25]
+```
+
+### Save for Later
+Site References: <br>
+- Clothing Analysis
+- Car Stuff
+- Cooking Stuff
+- 
+- Engineering Builds
+
 ### Project: Airplane Identification Summary
 [Project Link](https://github.com/Bailey-Wu/Bailey-Wu/blob/main/Portfolio/Airplane%20Identification.md) <br>
 Due Date: 3/28/25 5PM <br>
@@ -27,45 +82,6 @@ kanban
     [Compile Resources]
 ```
 
-
----
-### Personal To Do List
-```mermaid
-%%{init: {'theme':'forest'}}%%
-kanban
-  [Personal]
-    [Record Writing Video Shots]
-    [Lessons Learned from Moving]
-    [Top 5 Video]
-    [Copying Apartment Key Fob]
-    [Making a Cool Award Trophy]
-    [Project Builds]
-  [School]
-    [UW Masters Degree Recap]
-    [3D Printing Phase]
-  [Career]
-    [Interview Yourself]
-    [Plane Identification]
-    [How Infrared Works]
-    [Materials Matrix]
-  [Life]
-    [Car Registration & Smog Check]
-  [Completed]
-    [Create Documentation]
-    [Create Blog about the new diagram]
-    [Register for SEA2POR Race & Text Drew]
-    [Cascades Promo Message]
-    [Wardobe Material Analysis]
-    [Rubix Cube Guide]
-```
-
-### Save for Later
-Site References: <br>
-- Clothing Analysis
-- Car Stuff
-- Cooking Stuff
-- 
-- Engineering Builds
 
 ---
 ```mermaid
