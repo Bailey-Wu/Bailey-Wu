@@ -19,7 +19,7 @@ To spot a specific plane, it’s important to get familiar with the terminology 
 ## Distinct Features
 Some airplanes have unique features that help distinguish them from others. Here are a few examples:
 
-### Different Nose Shapes
+### Nose Shapes
 <img src="Projects/Airplane_Identification_Files/Airplane_Features_Nose.PNG" alt="Airplane Nose" width="500" />
 
 ### Winglet Shapes
@@ -60,3 +60,7 @@ The next time you're at an airport and curious about the airplanes around you, d
 
 ## :star2: Credit/Acknowledgment
   - https://suitesmile.com/blog/2019/12/27/plane-spotting-for-beginners/
+  - https://www.norebbo.com/category/aircraft-templates/
+  - https://flightlineaviationmedia.com/planespotting/
+  - https://www.airlinerspotter.com/how-to-identify-commercial-airliners.htm
+  - https://www.dimensions.com/collection/airliners
