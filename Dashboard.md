@@ -15,7 +15,7 @@
 
 ### Cool Award Trophy
 [Project Builds Link](Resources/Engineering/ProjectBuilds.md)
-- Switchback Necklaces
+- Switchback Award Necklaces
 - Cascades Resin Award Trophy
 - TBD
 
