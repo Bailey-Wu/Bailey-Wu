@@ -26,10 +26,10 @@ Some of my frequently worn clothing
 
 
 <b> Situational Clothing </b> <br>
-- Playing Frisbee: Polyester (Quick Drying & Moisture Wicking)
+- Sports Activity: Polyester (Quick Drying & Moisture Wicking)
 - Rainy Day: Nylon Rain Jacket (Rain resistant)
 - Cold Weather Trip: Wool or Down (Insulation and warmth)
-- Wedding: Cotton or Silk (Soft and comfortable)
+- Formal Event: Cotton or Silk (Soft and comfortable)
 
 
 ## Camping / Cold Weather Hiking
