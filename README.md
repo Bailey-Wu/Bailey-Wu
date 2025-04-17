@@ -120,7 +120,7 @@ I'm a Mechanical Engineer at the University of Washington building my version of
 - [My Experience as Maintainer for Hacktoberfest 2021]
 - [An Engineer's Approach to Working Out](Resources/Workout.md)
 - [What are my clothes made out of?](Resources/Clothing.md)
-- [Identifying Airplanes](Airplane_Identification.md)
+- [Identifying Airplanes](Portfolio/Airplane%20Identification.md)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
