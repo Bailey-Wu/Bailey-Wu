@@ -20,3 +20,7 @@ Static Strength
 
 
 ### Resources
+- https://lep.co.nz/material-selection-guide/
+- https://www.thermalspray.com/what-does-a-materials-engineer-do/
+- https://www.ansys.com/content/dam/amp/2021/august/webpage-requests/education-resources-dam-upload-batch-2/material-property-data-for-eng-materials-BOKENGEN21.pdf
+- https://guides.library.jhu.edu/engineering/material-properties
