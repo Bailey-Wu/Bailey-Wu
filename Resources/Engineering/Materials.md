@@ -18,6 +18,13 @@ Static Strength
 - Shear
 - 
 
+### Presentation Steps
+1. Slides & Script
+2. Finalize Script
+3. Virtual Presentation (Record)
+4. Public Presentation (Record)
+5. Practice with an audience
+
 
 ### Resources
 - https://lep.co.nz/material-selection-guide/
