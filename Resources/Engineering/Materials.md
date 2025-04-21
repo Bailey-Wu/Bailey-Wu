@@ -33,6 +33,7 @@ Static Strength
 Deep Dives (Back-up Slides)
 -  Metals
 -  Alloy Heat Treatment
+-  Welding / Metallurgy Experience
 -  Composites Advantages
 
 --- 
