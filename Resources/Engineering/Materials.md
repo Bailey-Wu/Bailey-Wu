@@ -18,6 +18,26 @@ Static Strength
 - Shear
 - 
 
+### Presentation Flow
+- Personal Introduction
+- Materials [Intro]
+- Material Properties [Intro]
+- Material Testing
+  - 	[Tensile Test]
+- 	Material Selection – Trade Offs
+- 	Industry Examples
+- 	Considering Cost & Machinability
+- 	Future Trends – Composite Example
+- 	Conclusion / Summary
+
+Deep Dives (Back-up Slides)
+-  Metals
+-  Alloy Heat Treatment
+Composites Advantages
+![image](https://github.com/user-attachments/assets/33dbff87-0db8-4f05-9786-4099b00547f3)
+
+
+
 ### Presentation Steps
 1. Slides & Script
 2. Finalize Script
