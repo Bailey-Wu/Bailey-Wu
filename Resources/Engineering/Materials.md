@@ -45,6 +45,8 @@ Composites Advantages
 4. Public Presentation (Record)
 5. Practice with an audience
 
+### Action Log
+- 4/21/25 - Presentation Sesh & Established Skeleton Structure
 
 ### Resources
 - https://lep.co.nz/material-selection-guide/
