@@ -42,7 +42,7 @@ Deep Dives (Back-up Slides)
 
 
 ### Presentation Steps
-1. Estbalish Purpose, Audience, Duration
+1. Establish Purpose, Audience, Duration
 2. Script (Print & Proofread)
 3. Slides
 4. Slides & Script
