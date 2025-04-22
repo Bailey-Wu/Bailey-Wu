@@ -42,11 +42,14 @@ Deep Dives (Back-up Slides)
 
 
 ### Presentation Steps
-1. Slides & Script
-2. Finalize Script
-3. Virtual Presentation (Record)
-4. Public Presentation (Record)
-5. Practice with an audience
+1. Estbalish Purpose, Audience, Duration
+2. Script (Print & Proofread)
+3. Slides
+4. Slides & Script
+5. Finalize Script
+6. Virtual Presentation (Record)
+7. Public Presentation (Record)
+8. Practice with an audience
 
 ### Action Log
 - 4/21/25 - Presentation Sesh & Established Skeleton Structure
