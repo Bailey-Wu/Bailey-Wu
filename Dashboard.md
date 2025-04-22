@@ -20,6 +20,11 @@
 - Cascades Resin Award Trophy
 - TBD
 
+### Lessons Learned from Sports 
+- TBD
+- 
+
+
 ---
 ### Personal To Do List
 ```mermaid
