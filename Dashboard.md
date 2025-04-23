@@ -21,7 +21,8 @@
 - TBD
 
 ### Lessons Learned from Sports 
-- TBD
+- Sometimes you can't choose your teammates
+- Conflicts can stem from caring
 - 
 
 
