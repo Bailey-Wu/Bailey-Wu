@@ -10,6 +10,22 @@ General/Logistics
 -  Create a Personal User Manual
 
 
+#### Self Interview Podcast 
+-  Question: Today we have Bailey Wu 
+	- Response: Pleasure to be here, thanks for having me
+-  Question: What made you want to become an engineer?
+	- Response: 
+-  Question: 
+	- Response:
+-  Question: 
+	- Response:
+-  Question: 
+	- Response: 
+-  Question: What are some lessons you've learned / What advice would you give to other engineers? 
+	- Response:
+ - 
+
+
 #### Technical 
 -  Explaining Focal Plane Array Product (Summary Sheet or Educational Video)
 -  Explaining Aircraft Product (Summary Sheet or Educational Video)
