@@ -72,14 +72,12 @@ What was Boeing like and how would you change Boeing's image?
 
 ### Topics/Reference: 
 
-| Name               | Algorithm                             |
-|-----------         |------------------                     |
-| Left Trigger       | L' U' L                               |
-| Right Trigger      | R U R'                                |
-| Fururf             | F U R U' R' F'                        |
-| Rururuur           | R U R' U R U2 R'                      |
-| Lurulur            | L' U R U' L U R'+ R U R' U R U2 R'    |
-| Clockwise          | F2 U R' L F2 L' R U F2                |
+| Task               			| Example                          |
+|-----------         			|------------------                |
+| Buying a Capital Equipment      	| TBD                              |
+| FEA Analysis			      	| TBD                              |
+| RCCA				      	| TBD                              |
+| Supplier			      	| TBD                              |
 
 
 
