@@ -53,6 +53,7 @@ Deep Dives (Back-up Slides)
 
 ### Action Log
 - 4/21/25 - Presentation Sesh & Established Skeleton Structure
+- 4/23/25 - Presentation Sesh & Refined Script & Presentation
 
 ### Resources
 - https://lep.co.nz/material-selection-guide/
