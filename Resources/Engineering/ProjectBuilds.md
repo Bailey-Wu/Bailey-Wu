@@ -9,3 +9,6 @@ https://www.reddit.com/r/somethingimade/comments/1jfr9k4/i_made_a_really_cool_la
 ## Epoxy Resin Awards
 Making an Architectural Trophy with CNC Milled Maple and Cast Epoxy <br>
 https://www.youtube.com/watch?v=JxlOZ-Xy6OU
+<br>
+Golf Ball<br>
+https://www.youtube.com/watch?v=cLzyZne4Ilc
