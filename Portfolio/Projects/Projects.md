@@ -8,3 +8,6 @@ https://www.youtube.com/watch?v=KoybP-zCxCg
 Deep Dive with Laser Dave - Epoxy Resin and Lasers <br>
 https://www.youtube.com/watch?v=MiefiXxMdEY
 
+Buying Acrylic Trophy Medium <br>
+https://www.jonesawards.com/Shop/Details/ACM/
+
