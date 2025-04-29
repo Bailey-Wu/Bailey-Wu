@@ -17,26 +17,7 @@ I'm a Mechanical Engineer at the University of Washington building my version of
 [**`Bailey's Weekly Goals`**](https://github.com/users/Bailey-Wu/projects/3/views/1)
 
 ---
-### 🧰 Languages and Tools
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
-
-#
 
 ## 📺 Latest Videos
 <!-- BEGIN YOUTUBE-CARDS -->
@@ -56,6 +37,21 @@ I'm a Mechanical Engineer at the University of Washington building my version of
 
 <details>
     <summary>🔧<b> Projects</b></summary><br/>
+
+<!-- BLOG-POST-LIST:START -->
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+    <img src="https://github.com/Bailey-Wu/Bailey-Wu/blob/main/US%20National%20Parks.JPG?raw=true" alt="Description 4" width="250" />
+    <img src="https://github.com/Bailey-Wu/Bailey-Wu/blob/main/US%20National%20Parks.JPG?raw=true" alt="Description 4" width="250" />
+    <img src="https://github.com/Bailey-Wu/Bailey-Wu/blob/main/US%20National%20Parks.JPG?raw=true" alt="Description 4" width="250" />
+</div>
+<!-- BLOG-POST-LIST:END -->
+
+</details>
+<!-------------------------------------------------------------------------------------------------------------------->
+<!-- markdownlint-disable MD033 -->
+
+<details>
+    <summary>🔧<b> Engineering </b></summary><br/>
 
 <!-- BLOG-POST-LIST:START -->
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
@@ -103,6 +99,19 @@ I'm a Mechanical Engineer at the University of Washington building my version of
 </details>
 <!-------------------------------------------------------------------------------------------------------------------->
 <details>
+    <summary>💭<b> Random </b></summary><br/>
+
+<!-- BLOG-POST-LIST:START -->
+- [My Experience as Maintainer for Hacktoberfest 2021]
+- [An Engineer's Approach to Working Out](Resources/Workout.md)
+- [What are my clothes made out of?](Resources/Clothing.md)
+- [Identifying Airplanes](Portfolio/Airplane%20Identification.md)
+<!-- BLOG-POST-LIST:END -->
+
+</details>
+
+<!-------------------------------------------------------------------------------------------------------------------->
+<details>
     <summary>&#128240 <b>Latest Blogs Posts</b></summary><br/>
 
 <!-- BLOG-POST-LIST:START -->
@@ -114,44 +123,12 @@ I'm a Mechanical Engineer at the University of Washington building my version of
 <!-- BLOG-POST-LIST:END -->
 </details>
 <!-------------------------------------------------------------------------------------------------------------------->
-<details>
-    <summary>💭<b> Random </b></summary><br/>
-
-<!-- BLOG-POST-LIST:START -->
-- [My Experience as Maintainer for Hacktoberfest 2021]
-- [An Engineer's Approach to Working Out](Resources/Workout.md)
-- [What are my clothes made out of?](Resources/Clothing.md)
-- [Identifying Airplanes](Portfolio/Airplane%20Identification.md)
-<!-- BLOG-POST-LIST:END -->
-
-</details>
-<!-------------------------------------------------------------------------------------------------------------------->
 <!-- markdownlint-enable MD033 -->
 
 
 
 #
 
-### 🗻 [U.S National Parks Tracker](https://bailey-wu.github.io/Bailey.github.io/)
-[![Live Map](https://github.com/Bailey-Wu/Bailey-Wu/blob/main/US%20National%20Parks.JPG?raw=true)](https://bailey-wu.github.io/Bailey.github.io/)
-
-### 📊 Stats
-
-## 👨‍🍳 Family Recipes
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-    <img src="https://github.com/Bailey-Wu/Bailey-Wu/blob/main/US%20National%20Parks.JPG?raw=true" alt="Description 4" width="300" />
-    <img src="https://github.com/Bailey-Wu/Bailey-Wu/blob/main/US%20National%20Parks.JPG?raw=true" alt="Description 4" width="300" />
-    <img src="https://github.com/Bailey-Wu/Bailey-Wu/blob/main/US%20National%20Parks.JPG?raw=true" alt="Description 4" width="300" />
-</div>
-
-## 🔧 Projects
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-    <img src="https://github.com/Bailey-Wu/Bailey-Wu/blob/main/US%20National%20Parks.JPG?raw=true" alt="Description 4" width="300" />
-    <img src="https://github.com/Bailey-Wu/Bailey-Wu/blob/main/US%20National%20Parks.JPG?raw=true" alt="Description 4" width="300" />
-    <img src="https://github.com/Bailey-Wu/Bailey-Wu/blob/main/US%20National%20Parks.JPG?raw=true" alt="Description 4" width="300" />
-</div>
 <!-------------------------------------------------------------------------------------------------------------------->
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
@@ -195,10 +172,32 @@ I'm a Mechanical Engineer at the University of Washington building my version of
 
 - ⚡ Fun fact **TBD**
 
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
+### 🧰 Languages and Tools
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br />
+
+#
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
