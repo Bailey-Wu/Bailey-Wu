@@ -125,6 +125,23 @@ I'm a Mechanical Engineer at the University of Washington building my version of
 <!-------------------------------------------------------------------------------------------------------------------->
 <!-- markdownlint-enable MD033 -->
 
+---
+### [Draft Text]
+Purpose of my website: 
+
+The Videos are my adventurous side, documenting some cool experiences I’ve had and trying to capture all the visuals and moments from that moment 
+
+Projects – I like getting into flow state with my projects and I like documenting the whole project journey along the way. And share the build with others in case they want to build it too!
+
+Engineering – This is a space where I get curious about engineering and explore all things engineering. This could be presentations or random deep dives on a topic
+
+Family Recipes – My family has always bonded through cooking so this is where I capture my family recipes
+
+U.S. National Parks
+
+Timelapse – Getting to explore the world of photography through stars and space and nature 
+
+Random – 
 
 
 #
