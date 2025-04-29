@@ -45,6 +45,8 @@ kanban
     [Interview Yourself]
     [How Infrared Works]
     [Materials Matrix]
+    [Why College Students should be stoked on Metallurgy]
+    [Cool Things I've Learned in Aviation Industry]
   [Life]
     [Car Registration & Smog Check]
   [Completed]
