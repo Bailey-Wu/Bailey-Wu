@@ -8,7 +8,8 @@
 ### Materials
 Main Materials:
 - Metals
-- 
+
+- 3D Printing: PLA, PETG, TPU, 
 
 ### Materials
 Important Material Properties <br>
