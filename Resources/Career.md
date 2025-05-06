@@ -8,8 +8,10 @@ General/Logistics
 -  Create a Self-Podcast similar to "Being an Engineer" podcast with questions
 -  Fill out Development Profile
 -  Create a Personal User Manual
+-  https://edwells.web.boeing.com/CareerCoachingAndConsultation/
+-  Schedule a Call with HumanEngineering with Jake http://jeff-perry.com/schedule-call
 
-
+ 
 #### Self Interview Podcast 
 -  Question: Today we have Bailey Wu 
 	- Response: Pleasure to be here, thanks for having me
