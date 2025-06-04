@@ -11,6 +11,10 @@ General/Logistics
 -  https://edwells.web.boeing.com/CareerCoachingAndConsultation/
 -  Schedule a Call with HumanEngineering with Jake http://jeff-perry.com/schedule-call
 
+### Mechanical Engineering Salaries (Levels & Companies Comparison)
+- https://www.levels.fyi/t/mechanical-engineer?countryId=254&compare=Intuitive%2CAbbott%2CMedtronic%2CJohnson+%26+Johnson%2CEdwards+Lifesciences
+- https://docs.google.com/spreadsheets/d/15ObUrXzYe6f7m_yGi1RoMcI_u2-siXVa-H8z_mxsvcA/edit?usp=sharing
+
  
 #### Self Interview Podcast 
 -  Question: Today we have Bailey Wu 
