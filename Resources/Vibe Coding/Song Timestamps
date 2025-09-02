@@ -20,17 +20,23 @@ def convert_to_seconds(timestamp):
 # Create an array of seconds
 seconds = [convert_to_seconds(ts) for ts in timestamps]
 
-# Create a continuous horizontal bar
+# Define colors for alternating segments
+colors = ['skyblue', 'lightgreen']
+
+# Create a continuous horizontal bar with alternating colors
 plt.figure(figsize=(10, 2))
-plt.hlines(1, seconds[0], seconds[-1], color='skyblue', linewidth=5)
+
+for i in range(len(seconds) - 1):
+    plt.hlines(1, seconds[i], seconds[i + 1], color=colors[i % 2], linewidth=5)
 
 # Mark the timestamps on the x-axis
 plt.xticks(seconds, timestamps, rotation=45)
 plt.yticks([])  # Hide y-ticks
 plt.xlabel('Time (MM:SS)')
-plt.title('Continuous Timeline of Timestamps')
+plt.title('Continuous Timeline of Timestamps with Alternating Colors')
 plt.grid(axis='x')
 
 # Show the plot
 plt.xlim(seconds[0], seconds[-1])  # Set x-axis limits
 plt.show()
+
