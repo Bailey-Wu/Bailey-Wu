@@ -88,6 +88,58 @@ Camera Settings:
 -	Lock Button
 -	ISO: Ideally Low but increase if scene is too dark 
 
+# Companies
 
+"My current job is Tooling Design Engineer and I work in the Aerospace & Defense industry. Could you provide alternative job titles for this one that might be used in other sectors"
 
+Same Type of Work, Different Wording: 
+(Design, Manufacturing Support, Process Engineering) 
+	• Tooling Engineer
+	• Manufacturing Tooling Engineer
+	• Design Engineer - Tooling & Fixtures
+	• Tooling Development Engineer
+	• Production Tooling Engineer
+More Broad Roles 
+	• Manufacturing Engineer
+	• Process Engineer (Tooling & Fixtures)
+	• Mechanical Design Engineer - Tooling 
+	• Fixture Design Engineer
+	
+	
+"Give me the top 10 job boards for roles as [Insert Job Title] Mechanical Design Engineer - Tooling" 
+	• EngineerJobs.com
+	• Engineering.com
+	• ASME Career Center (ASME Job Board)
+	• EngineeringJobs.net
+	• iHireEngineering
+	• Dice
+	• Indeed
+	• LinkedIn
+	• CareerBuilder
+	• The Ladders
+	• Engineering Central
+	• SimplyHired
+	
+
+"Which are the fastest growing companies in the [Aerospace & Defense] Industry? "
+	• AIRO Group
+	• Heico Corporation
+	• Impulse Space
+	• Astranis
+	• Anduril Industries
+	• Helsing SE
+	• Edge Group
+	• Tata Advanced Systems (TASL)
+	• LMT, RTX, NG
+	• Howmet Aerospace & Leidos
+
+"Which are the declining companies in the [Aerospace & Defense] Industry? "
+	• Boeing
+	• LMT & RTX
+	• GD - Aerospace Segment
+	• CPI Aerostructures
+	• Rocket Lab USA
+	• L3Harris 
+	• Avibras (Brazil)
+	• Stavatti Aerospace
 
