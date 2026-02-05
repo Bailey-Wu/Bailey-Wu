@@ -1,3 +1,21 @@
+# Message to Anita
+
+I’m meeting with someone to talk about their career perspective about companies and industries around the area of North Carolina and I made a guide of the companies I’ve researched and to become more familiar with the industries around the area. Can you help me draft an email that shares the guide with them just as a preface / provide context before our call? Here is a quick message I drafted up but feel free to change any wording around: 
+
+‘Hi Anita, 
+
+I’ve done some research on the companies in the area of North Carolina and made this guide. 
+
+I wanted to send it to you before our call to see if you had any opinions on the the companies and industries around the area. Some other topics I’m interested in hearing your  as well as your transition from Aerospace to MedTech 
+
+Looking forward to our chat! 
+
+Best,
+Brian
+“
+
+
+
 # Video Overview
 -	Pregame: Hot Ones Predictions
 -	Highlights
