@@ -146,7 +146,140 @@ If you want, I can:
 
 Just say the word 😎🏈
 
+Alright, now we’re point-hunting.
+Priority = higher-value props (3–4 pts) + lowest variance, even if they’re boring.
+Here’s the optimized-for-max-points card 👇
 
+⸻
+
+🔥 HIGH-VALUE FIRST (LOCK THESE IN)
+
+Winner Against the Spread (4 Points)
+
+👉 Seahawks -4.5
+Best combo of talent + consistency. Don’t get cute with the biggest point swing.
+
+Score at End of 1st Half (3 Points)
+
+👉 Seahawks AHEAD
+Elite Super Bowl trend: better team usually leads at half.
+
+Over / Under 46.5 (3 Points)
+
+👉 Under 46.5
+Massive value. Super Bowls tighten up, red zone stalls, nerves kick in.
+
+⸻
+
+🧠 MEDIUM RISK, SOLID EDGE (2 POINTS EACH)
+
+National Anthem (2:00.5)
+👉 LONGER
+Still one of the most reliable SB props.
+
+First Commercial After Coin Toss
+👉 Beer
+Consistency > creativity.
+
+First Play From Scrimmage
+👉 Run
+Coaches script conservative.
+
+Which Team Scores First
+👉 Seahawks
+
+First Score
+👉 Touchdown
+
+Longest Play From Scrimmage (47.5)
+👉 More than 47.5 yards
+One blown coverage cashes this.
+
+Team With Most Total Yards
+👉 Seahawks
+
+Will a QB Score a TD or 2PT?
+👉 Yes
+Sneaks + scrambles = value.
+
+Total INTs + Fumbles Lost (2.5)
+👉 Less than 2.5
+Risk-averse game plans.
+
+⸻
+
+🎯 LOWER VARIANCE FILLERS
+
+Coin Toss
+👉 Tails
+
+Coin Toss Winner
+👉 Seahawks
+
+First Turnover
+👉 Interception
+
+Any Player Rush for 75.5+ Yards
+👉 Over 75.5
+Kenneth Walker path is clear.
+
+Missed XP or FG
+👉 Yes
+Pressure ruins kickers.
+
+Unsportsmanlike Conduct Penalty
+👉 Yes
+Someone ALWAYS loses composure.
+
+How Many Players With a Passing Attempt
+👉 Over 2.5
+Trick play insurance.
+
+⸻
+
+🎤 HALFTIME (LESS CHAOS, MORE EV)
+
+First Song
+👉 Titi Me Pregunto
+
+Headwear
+👉 No Hat
+
+Total Songs Performed
+👉 More than 11.5
+
+⸻
+
+🏁 ENDGAME
+
+Last Scoring Play
+👉 SEA TD
+
+Quarter With Most Points
+👉 2nd Quarter
+
+Gatorade Color
+👉 Clear
+Historically sneaky + less narrative bias.
+
+Super Bowl MVP
+👉 Any other player
+RB/WR MVP hits more than people think when favorites win.
+
+⸻
+
+🏆 TL;DR – WHERE YOU WIN THIS POOL
+	•	Seahawks dominance props
+	•	UNDER points
+	•	Boring, repeatable Super Bowl trends
+	•	Fading chaos unless forced
+
+If you want, I can:
+	•	Strip this down to top 10 must-plays
+	•	Hedge it against a Patriots upset
+	•	Or game-theory it based on what your league mates will overpick
+
+You’re in a strong spot with this card 😈🏈
 
 # Message to Anita
 
