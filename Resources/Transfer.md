@@ -297,6 +297,23 @@ Best,
 Brian
 “
 
+Big-picture perspective (great openers)
+
+These help you understand how they frame the region.
+	•	How would you describe the overall business and industry landscape in North Carolina?
+	•	What industries do you think are especially strong or gaining momentum in this area right now?
+	•	When people think about careers in North Carolina, what do you think they often overlook?
+
+⸻
+
+Companies & industries (tie directly to your guide)
+
+These show you did your homework and invite their insight.
+	•	Are there any companies or industries in my guide that stand out to you—either positively or negatively?
+	•	Are there companies here that don’t get much attention but are actually great places to build a career?
+	•	Which industries here feel more stable long-term versus more cyclical or volatile?
+	•	Have you seen certain companies or sectors struggle locally, and if so, why?
+
 
 
 # Video Overview
