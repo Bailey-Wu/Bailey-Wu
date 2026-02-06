@@ -1,3 +1,153 @@
+# superbowl prop bets
+
+Alright, this is a pure vibes + tendencies + chaos theory card 😄
+I’ll give you one clean pick per prop, with a quick why so you can decide if you ride or fade.
+
+⸻
+
+🏟️ Game & Early Props
+
+National Anthem (2:00.5)
+👉 LONGER
+Super Bowl anthems almost always drag. Hold the note, get the applause.
+
+Coin Toss
+👉 Tails
+No logic. Just destiny.
+
+Coin Toss Winner
+👉 Seahawks
+Road team energy.
+
+First Commercial After Coin Toss
+👉 Beer
+Safest Super Bowl ad category every year.
+
+First Play From Scrimmage
+👉 Run
+Teams LOVE a “settle in” handoff on play one.
+
+Which Team Scores First
+👉 Seahawks
+Faster offense early.
+
+First Score
+👉 Touchdown
+Aggressive Super Bowl scripting.
+
+⸻
+
+🏈 Touchdowns & Turnovers
+
+Player Scoring 1st TD
+👉 Kenneth Walker III
+Classic early-game RB TD pick.
+
+First Turnover of the Game
+👉 Interception
+Super Bowl nerves > fumbles.
+
+Score at End of 1st Half
+👉 Seahawks AHEAD
+Stronger mid-game offense.
+
+⸻
+
+🎤 Halftime (Bad Bunny Chaos Zone)
+
+First Song Played
+👉 Titi Me Pregunto
+Iconic, hype, crowd-ready.
+
+Headwear for 1st Song
+👉 No hat
+Face card never declines.
+
+Total Songs Performed
+👉 More than 11.5
+Bad Bunny runs MEDLEYS.
+
+⸻
+
+⚙️ Game Flow Props
+
+Will a QB Score a TD or 2-pt Conversion?
+👉 Yes
+Sneaks near the goal line are inevitable.
+
+Total Interceptions + Fumbles Lost
+👉 Less than 2.5
+Coaches play conservative in the Super Bowl.
+
+Unsportsmanlike Conduct Penalty?
+👉 Yes
+Someone chirps. Always.
+
+Longest Play From Scrimmage
+👉 More than 47.5 yards
+One busted coverage = cash.
+
+Any Player Rush for 75.5+ Yards?
+👉 Over 75.5
+Kenneth Walker again 👀
+
+Missed Extra Point or FG?
+👉 Yes
+Pressure kicks are evil.
+
+Seahawks Pass Attempt from Opponent’s 1-Yard Line?
+👉 No
+RB gets the call down there.
+
+How Many Players Will Have a Passing Attempt?
+👉 Over 2.5
+Trick play or emergency throw always sneaks in.
+
+⸻
+
+🏁 Late Game Props
+
+Last Scoring Play
+👉 SEA TD
+If they’re ahead late, they finish strong.
+
+Quarter With Most Points
+👉 2nd Quarter
+Before halftime fireworks.
+
+Team With Most Total Yards
+👉 Seahawks
+
+Winner Against the Spread
+👉 Seahawks -4.5
+
+Over / Under 46.5
+👉 Under 46.5
+Super Bowls trend tighter than expected.
+
+⸻
+
+🧃 Celebration Props
+
+Gatorade Color
+👉 Clear
+Chaos pick + sneaky common.
+
+Super Bowl MVP
+👉 Any other player
+RB or defensive MVP narrative is VERY live.
+
+⸻
+
+If you want, I can:
+	•	Re-optimize this for max points
+	•	Do a high-risk / high-reward card
+	•	Or tailor picks based on what your friends always overthink
+
+Just say the word 😎🏈
+
+
+
 # Message to Anita
 
 I’m meeting with someone to talk about their career perspective about companies and industries around the area of North Carolina and I made a guide of the companies I’ve researched and to become more familiar with the industries around the area. Can you help me draft an email that shares the guide with them just as a preface / provide context before our call? Here is a quick message I drafted up but feel free to change any wording around: 
