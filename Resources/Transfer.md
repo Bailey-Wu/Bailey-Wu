@@ -1,3 +1,11 @@
+# Message to Jeramy
+
+Hi Jeramy, thank you for sending me these resources. 
+I scheduled a meeting next Tuesday to review my resume. I'd like some feedback on how to tailor it to some specific roles (Design, Process, Product Management). Here are some example of recs that I'm interested in applying. 
+
+Looking forward to our meeting next week
+Thanks,
+Bailey
 
 # Message to Anita
 
