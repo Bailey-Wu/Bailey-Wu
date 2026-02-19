@@ -1,3 +1,18 @@
+# BD Application Prep
+
+Keywords: 
+-	Solidworks
+-	Simulation & Testing
+-	Design
+-	conducting advanced, computational modeling and simulations that provide credible
+-	CFD + Ansys (Ansys Fluent, Ansys CFX) 
+-	Familiarity with using three-dimensional CAD solid modeling software packages, preferably SolidWorks.
+-	Utilize additional engineering tools (e.g., Matlab, Python, Minitab, hand-calculations, first-principles models, DOEs, optimizations etc.)
+-	Experience with and interest in additional computational tools and techniques such as artificial intelligence (AI), and machine learning (ML) is a plus
+-	Utilize scripting tools to automate workflows, enhancing efficiency and repeatability where applicable.
+
+
+
 # Message to Jeramy
 
 Hi Jeramy, thank you for sending me these resources. 
