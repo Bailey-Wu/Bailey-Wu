@@ -1,3 +1,14 @@
+# LinkedIn Tips
+- https://www.tealhq.com/linkedin-guides/mechanical-engineer
+	- Summary
+- https://www.linkedin.com/in/solrosenbaum-pe-cem-cpmp/
+- https://www.reddit.com/r/EngineeringStudents/comments/aya9na/some_tips_on_improving_your_linkedin_profile/
+- Be ready to defend every line on your résumé.
+	- https://www.reddit.com/r/AskEngineers/comments/f9b12c/the_linkedin_profiles_for_engineers_with_similar/
+- https://resumeworded.com/linkedin-samples/mechanical-engineer-linkedin-summary-examples
+- https://klaxos.com/examples/engineering/
+
+
 # BD Application Prep
 
 Keywords: 
