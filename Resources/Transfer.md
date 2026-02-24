@@ -13,6 +13,32 @@ Based on the previous prompts, help me fill out 2-3 bullet points for each secti
 
 COMPETENCY BASED RELEVANT SKILLS:
 
+
+Asset Support
+
+•	Insert specific rationale that demonstrates competency
+
+•	
+
+Design Safe and Reliable Assets
+
+•	Insert specific rationale that demonstrates competency
+
+•	
+Mech Component & System Eng.
+
+•	Insert specific rationale that demonstrates competency
+•	
+
+Requirements
+
+•	Insert specific rationale that demonstrates competency
+•	
+
+Troubleshooting
+•	Insert specific rationale that demonstrates competency
+
+
 Asset Support
 
 •	Regularly work with ES, EE, and Production to troubleshoot and improve equipment within Mid Bodies (MBMs, SPMs, AGVs, Robots, Metrology Kiosks, Workstands, ASM)
