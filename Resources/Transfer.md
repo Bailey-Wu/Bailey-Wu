@@ -1,5 +1,75 @@
 # EIS 
 
+Below are strong, experienced-level bullet points tailored for a Tooling Design Engineer in a production environment like Boeing Commercial Airplanes.
+
+They emphasize factory support, technical depth, ownership, and production impact — which align well with a Retention Index / Redeployment review.
+
+⸻
+
+COMPETENCY BASED RELEVANT SKILLS
+
+⸻
+
+Asset Support
+
+• Provide direct factory-floor support for production tooling and equipment, ensuring rapid resolution of non-conformances, minimizing downtime, and maintaining schedule adherence for active aircraft programs.
+
+• Lead preventative maintenance planning, spares identification, and lifecycle management strategies to improve asset reliability and reduce total cost of ownership.
+
+• Investigate and disposition tooling discrepancies through root cause analysis, coordinating with Manufacturing, Quality, and Supplier teams to maintain configuration integrity and production readiness.
+
+⸻
+
+Design Safe and Reliable Assets
+
+• Develop tooling concepts and detailed designs that comply with structural, ergonomic, and safety requirements, incorporating factors such as load paths, factor of safety, human interface risks, and maintainability.
+
+• Conduct engineering analysis (hand calculations and FEA where applicable) to validate structural integrity and functional performance of fixtures, jigs, lifting devices, and automation support equipment.
+
+• Ensure compliance with regulatory, environmental, and internal safety standards by integrating hazard assessments and risk mitigation strategies early in the design phase.
+
+⸻
+
+Mechanical Component & System Engineering
+
+• Design and integrate mechanical systems including structural weldments, precision alignment features, actuation mechanisms, and modular tooling assemblies to support aircraft build requirements.
+
+• Apply GD&T principles and tolerance stack-up analysis to ensure tooling interfaces correctly with aircraft structure and meets production accuracy requirements.
+
+• Collaborate with Product and Manufacturing Engineering to optimize tool-to-aircraft interfaces, ensuring producibility, repeatability, and system-level performance across programs.
+
+⸻
+
+Requirements
+
+• Develop and translate production system requirements into detailed engineering data packages including design definitions, usage instructions, procurement specifications, and acceptance criteria.
+
+• Lead gated design reviews to ensure tooling solutions meet safety, functional, schedule, and cost requirements prior to release and fabrication.
+
+• Validate supplier compliance with contractual and technical requirements, supporting make/buy decisions and managing external design work packages.
+
+⸻
+
+Troubleshooting
+
+• Lead root cause investigations for tooling failures, dimensional escapes, or integration issues, implementing corrective actions to prevent recurrence and maintain production flow.
+
+• Support tool try-outs and first-article validations, identifying performance gaps and driving rapid design refinements to meet operational requirements.
+
+• Troubleshoot mechanical and integration issues in collaboration with cross-functional teams, applying structured problem-solving methodologies to resolve complex production constraints.
+
+⸻
+
+If you’d like, I can also:
+	•	Make this more impact-driven with quantified results
+	•	Tailor it more specifically to automation/robotics-heavy roles
+	•	Adjust tone to sound more strategic (senior-level) or more technical-depth focused
+	•	Align it to internal Boeing competency language if you share it
+
+Let me know your years of experience and whether this is for lateral redeployment or retention justification.
+
+EIS 
+
 [Insert Prompt for my tooling role] 
 
 [Insert Prompt for my resume] 
