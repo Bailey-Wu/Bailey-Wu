@@ -1,3 +1,56 @@
+# EIS 
+
+[Insert Prompt for my tooling role] 
+
+[Insert Prompt for my resume] 
+
+[Insert Prompt for my equipment] 
+
+
+I am required to fill out a form that reviews my competencies for my role in a big effort to create a Retention Index Review & Redeployment. 
+
+Based on the previous prompts, help me fill out 2-3 bullet points for each section. Highlight the skills for a common Tooling Design Engineer
+
+COMPETENCY BASED RELEVANT SKILLS:
+
+Asset Support
+
+•	Regularly work with ES, EE, and Production to troubleshoot and improve equipment within Mid Bodies (MBMs, SPMs, AGVs, Robots, Metrology Kiosks, Workstands, ASM)
+
+•	Implementing preventive and predictive maintenance schedules for equipment assets within Mid Bodies and ASM, ensuring minimal downtime and prolonging asset life.
+
+Design Safe and Reliable Assets
+
+•	Developed improvements for Mid Body Robots that reduce equipment downtimes and improve production automation time (fastener loading, sealant application, hole probe frequency, automated coupling)
+
+•	Used FMEA to identify potential failure modes of MBM Access Stand project with TE and EHS to assess the impact of individual components on the overall system, and prioritize mitigation strategies.
+
+Automated Equipment Controls
+
+•	Developing PLC programming concepts like ladder logic or function block diagrams within systems (Allen-Bradley, Siemens S7, or Mitsubishi PLCs)
+
+•	At Lockheed Martin, developed 3D CAD modeling and toolpath generation in Solidworks to create precise manufacturing instructions, especially for complex aerospace components.
+
+•	At Raytheon, developed G-Code programs for laser welding programs, optimizing precision welding parameters and efficient production workflows.
+Industrial Networking
+
+•	Integrated and configured robot sensors within industrial networks to enable real-time data exchange and precise control in automated aerospace manufacturing processes, ensuring accurate feedback for 
+
+•	Maintained sensor communication protocols between MBM and Mid Body Robots to enable real-time data exchange and precise control in automated manufacturing processes.
+
+Requirements
+
+•	Evaluate out-of-tolerance hole profiles and ensure compliance with specified tolerances as outlined in engineering drawings and manufacturing standards.
+
+•	At Raytheon and Lockheed Martin, held Secret Level Clearance and supported classified aerospace programs to ensure full compliance with DoD regulations and specifications for system design and integration.
+
+Troubleshooting
+
+•	Determined root causes of docking issues with Robot to MBM. Improved automated coupling by reteaching reference image in vision system. 
+
+
+
+
 # LinkedIn Tips
 - https://www.tealhq.com/linkedin-guides/mechanical-engineer
 	- Summary
