@@ -1,161 +1,3 @@
-# EIS 
-
-Below are strong, experienced-level bullet points tailored for a Tooling Design Engineer in a production environment like Boeing Commercial Airplanes.
-
-They emphasize factory support, technical depth, ownership, and production impact — which align well with a Retention Index / Redeployment review.
-
-⸻
-
-COMPETENCY BASED RELEVANT SKILLS
-
-⸻
-
-Asset Support
-
-• Provide direct factory-floor support for production tooling and equipment, ensuring rapid resolution of non-conformances, minimizing downtime, and maintaining schedule adherence for active aircraft programs.
-
-• Lead preventative maintenance planning, spares identification, and lifecycle management strategies to improve asset reliability and reduce total cost of ownership.
-
-• Investigate and disposition tooling discrepancies through root cause analysis, coordinating with Manufacturing, Quality, and Supplier teams to maintain configuration integrity and production readiness.
-
-⸻
-
-Design Safe and Reliable Assets
-
-• Develop tooling concepts and detailed designs that comply with structural, ergonomic, and safety requirements, incorporating factors such as load paths, factor of safety, human interface risks, and maintainability.
-
-• Conduct engineering analysis (hand calculations and FEA where applicable) to validate structural integrity and functional performance of fixtures, jigs, lifting devices, and automation support equipment.
-
-• Ensure compliance with regulatory, environmental, and internal safety standards by integrating hazard assessments and risk mitigation strategies early in the design phase.
-
-⸻
-
-Mechanical Component & System Engineering
-
-• Design and integrate mechanical systems including structural weldments, precision alignment features, actuation mechanisms, and modular tooling assemblies to support aircraft build requirements.
-
-• Apply GD&T principles and tolerance stack-up analysis to ensure tooling interfaces correctly with aircraft structure and meets production accuracy requirements.
-
-• Collaborate with Product and Manufacturing Engineering to optimize tool-to-aircraft interfaces, ensuring producibility, repeatability, and system-level performance across programs.
-
-⸻
-
-Requirements
-
-• Develop and translate production system requirements into detailed engineering data packages including design definitions, usage instructions, procurement specifications, and acceptance criteria.
-
-• Lead gated design reviews to ensure tooling solutions meet safety, functional, schedule, and cost requirements prior to release and fabrication.
-
-• Validate supplier compliance with contractual and technical requirements, supporting make/buy decisions and managing external design work packages.
-
-⸻
-
-Troubleshooting
-
-• Lead root cause investigations for tooling failures, dimensional escapes, or integration issues, implementing corrective actions to prevent recurrence and maintain production flow.
-
-• Support tool try-outs and first-article validations, identifying performance gaps and driving rapid design refinements to meet operational requirements.
-
-• Troubleshoot mechanical and integration issues in collaboration with cross-functional teams, applying structured problem-solving methodologies to resolve complex production constraints.
-
-⸻
-
-If you’d like, I can also:
-	•	Make this more impact-driven with quantified results
-	•	Tailor it more specifically to automation/robotics-heavy roles
-	•	Adjust tone to sound more strategic (senior-level) or more technical-depth focused
-	•	Align it to internal Boeing competency language if you share it
-
-Let me know your years of experience and whether this is for lateral redeployment or retention justification.
-
-EIS 
-
-[Insert Prompt for my tooling role] 
-
-[Insert Prompt for my resume] 
-
-[Insert Prompt for my equipment] 
-
-
-I am required to fill out a form that reviews my competencies for my role in a big effort to create a Retention Index Review & Redeployment. 
-
-Based on the previous prompts, help me fill out 2-3 bullet points for each section. Highlight the skills for a common Tooling Design Engineer
-
-COMPETENCY BASED RELEVANT SKILLS:
-
-
-Asset Support
-
-•	Insert specific rationale that demonstrates competency
-
-•	
-
-Design Safe and Reliable Assets
-
-•	Insert specific rationale that demonstrates competency
-
-•	
-Mech Component & System Eng.
-
-•	Insert specific rationale that demonstrates competency
-•	
-
-Requirements
-
-•	Insert specific rationale that demonstrates competency
-•	
-
-Troubleshooting
-•	Insert specific rationale that demonstrates competency
-
-
-Asset Support
-
-•	Regularly work with ES, EE, and Production to troubleshoot and improve equipment within Mid Bodies (MBMs, SPMs, AGVs, Robots, Metrology Kiosks, Workstands, ASM)
-
-•	Implementing preventive and predictive maintenance schedules for equipment assets within Mid Bodies and ASM, ensuring minimal downtime and prolonging asset life.
-
-Design Safe and Reliable Assets
-
-•	Developed improvements for Mid Body Robots that reduce equipment downtimes and improve production automation time (fastener loading, sealant application, hole probe frequency, automated coupling)
-
-•	Used FMEA to identify potential failure modes of MBM Access Stand project with TE and EHS to assess the impact of individual components on the overall system, and prioritize mitigation strategies.
-
-Automated Equipment Controls
-
-•	Developing PLC programming concepts like ladder logic or function block diagrams within systems (Allen-Bradley, Siemens S7, or Mitsubishi PLCs)
-
-•	At Lockheed Martin, developed 3D CAD modeling and toolpath generation in Solidworks to create precise manufacturing instructions, especially for complex aerospace components.
-
-•	At Raytheon, developed G-Code programs for laser welding programs, optimizing precision welding parameters and efficient production workflows.
-Industrial Networking
-
-•	Integrated and configured robot sensors within industrial networks to enable real-time data exchange and precise control in automated aerospace manufacturing processes, ensuring accurate feedback for 
-
-•	Maintained sensor communication protocols between MBM and Mid Body Robots to enable real-time data exchange and precise control in automated manufacturing processes.
-
-Requirements
-
-•	Evaluate out-of-tolerance hole profiles and ensure compliance with specified tolerances as outlined in engineering drawings and manufacturing standards.
-
-•	At Raytheon and Lockheed Martin, held Secret Level Clearance and supported classified aerospace programs to ensure full compliance with DoD regulations and specifications for system design and integration.
-
-Troubleshooting
-
-•	Determined root causes of docking issues with Robot to MBM. Improved automated coupling by reteaching reference image in vision system. 
-
-
-
-
-# LinkedIn Tips
-- https://www.tealhq.com/linkedin-guides/mechanical-engineer
-	- Summary
-- https://www.linkedin.com/in/solrosenbaum-pe-cem-cpmp/
-- https://www.reddit.com/r/EngineeringStudents/comments/aya9na/some_tips_on_improving_your_linkedin_profile/
-- Be ready to defend every line on your résumé.
-	- https://www.reddit.com/r/AskEngineers/comments/f9b12c/the_linkedin_profiles_for_engineers_with_similar/
-- https://resumeworded.com/linkedin-samples/mechanical-engineer-linkedin-summary-examples
-- https://klaxos.com/examples/engineering/
 
 
 # BD Application Prep
@@ -171,6 +13,35 @@ Keywords:
 -	Experience with and interest in additional computational tools and techniques such as artificial intelligence (AI), and machine learning (ML) is a plus
 -	Utilize scripting tools to automate workflows, enhancing efficiency and repeatability where applicable.
 
+
+### Logistics & Practical Questions
+Salary Expectations: Based on similar roles in the area, I noticed a range between [100 – 150]K that seems to 
+
+Notice Period
+
+Next Steps for interview
+
+
+###  My Questions to them
+What are the upcoming projects for this role?
+Products & Projects – how long is a project? 
+
+Can you share anything about the team I’d be working with? Do you know what size it is? Is it primarily on site or hybrid?  
+
+What does the interview process look like? 
+
+
+
+
+# LinkedIn Tips
+- https://www.tealhq.com/linkedin-guides/mechanical-engineer
+	- Summary
+- https://www.linkedin.com/in/solrosenbaum-pe-cem-cpmp/
+- https://www.reddit.com/r/EngineeringStudents/comments/aya9na/some_tips_on_improving_your_linkedin_profile/
+- Be ready to defend every line on your résumé.
+	- https://www.reddit.com/r/AskEngineers/comments/f9b12c/the_linkedin_profiles_for_engineers_with_similar/
+- https://resumeworded.com/linkedin-samples/mechanical-engineer-linkedin-summary-examples
+- https://klaxos.com/examples/engineering/
 
 
 # Message to Jeramy
