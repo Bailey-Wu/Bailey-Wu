@@ -1,3 +1,65 @@
+#BD Application Prep 2-26-26
+
+Big Highlight Examples: 
+Laser Welding
+Thermal Cycling
+Precision Alignment
+
+
+Vibration Testing
+Performance Testing
+Thermal Cycling Testing
+
+Coupon Testing
+-	Laser Weld Coupons
+-	CCWS Coupons
+-	XRD – Non Destructive Testing
+
+Data Analysis
+
+Measure System Analysis (Gage R&R)
+
+Things to brush up on: 
+-	Stress Analysis
+-	Non Linear Material Lectures 
+o	It’s okay that I haven’t had much experience in industry with nonlinear material but my understanding in graduate school …. 
+o	Polymers  My own 3D Printing Projects
+-	Residual Stress Analysis
+-	XRD – Non Destructive Testing
+-	MSA Review
+-	Have a brief general understanding of my resume and the processes I was involved in
+-	Career Roadmap
+-	Design of Experiment
+o	Run an example?
+-	V&V Example
+
+About Me:
+-	Mechanical Engineer // Aerospace Experience // Worn many hats
+
+
+Why BD? 
+Common Questions: 
+“Why are you interested in this role?”
+“What attracted you to our company?”
+“What are you looking for next?” 
+-	Talk about similar missions between my aerospace projects and MedTech devices – how both industries focus on saving peoples lives and the consequences for when things go wrong so it’s important to get things right 
+-	Yeah that’s a good question – I’d say I’ve talked to people in the MedTech industry and it seems like there’s a similar sense of pride I get with the aerospace products I’ve worked on  
+-	Yeah that’s a good question, I’d say there’s a lot of reasons I’m interested in working for BD but one of the reasons I’ll mention is that I’ve talked to people in the Medical Device Industry and it seems like there’s a similar sense of pride I get with the aerospace products I’ve worked on  -- like whenever I fly
+o	Pride
+o	Margins of Error
+o	High Stakes High Reward
+
+
+My Fit for BD
+-	I come from an Aerospace background and after speaking to a few people in the MedTech industry, I’ve realized there are a lot of parallel processes when it comes to requirements, regulatory bodies, process control 
+-	Sensitive Products in Cleanroom environment
+-	Material Trade Off Decisions & Testing
+-	So what I plan to bring to BD is my background with Materials & Process Engineering but also the design and analysis skills I’ve gained from other roles. 
+
+Extensive experience with testing from the aerospace industry 
+
+Experience in Materials & Process seems to be the most translatable to Materials Testing role but the CAD and Tooling adds to the design aspect of the role 
+
 
 
 # BD Application Prep
