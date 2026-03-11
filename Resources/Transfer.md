@@ -1,3 +1,20 @@
+# Bending Problem: 
+	KNOWNS		Units
+Areas	A_AB	1	in^2
+	A_CD	1	in^2
+	A_BC	1.5984	in^2
+Lengths	L_AB	4.75	in
+	L_CD	4.75	in
+	L_BC	24.94	in
+Forces	P	100	lb*
+	W	30	lb*
+Intertias	I_BC	9.840625	
+	c_BC	0.297573954	in
+<img width="315" height="221" alt="image" src="https://github.com/user-attachments/assets/7ec66c9f-b1ba-4d02-9326-f71df37768e7" />
+
+
+
+
 #BD Application Prep 2-26-26
 
 Big Highlight Examples: 
