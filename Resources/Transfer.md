@@ -1,3 +1,37 @@
+## 
+
+Dear Laddy & Hannah 
+
+[Congratulations & Special moments] 
+
+Just wanted to say one quick congratulations to you both lovely people. 
+So many special moments from this past weekend and too many to name. 
+Vows – Beautiful
+Speeches – Fire 
+Playlist – Elite
+Dolphins – Majestic
+People – Lovely
+
+But the main reason I’m writing to you both is because your wedding was personally a special one because it was the first wedding I got to experience with Naomi. 
+
+**It was so great having her meet all the friendos.**
+
+And I thought about your wedding site and how many weddings you two have been to and it made me excited for all the weddings that Naomi and I will hopefully get to go together in the future. 
+
+I’m sure you’ve all heard the word ‘chapter’ used a lot this week but it’s cool to say that yalls wedding was the first wedding of our ‘wedding chapter’ and it was such a lovely special one as our first – and your wedding will forever always have a special place in my heart. 
+
+Anyways, just wanted to share that sentiment while we’re riding this love high. 
+
+Love you both so very much and congratulations to the most amazing couple. 
+Hope to see you both very soon. 
+
+Love,
+B
+
+P.S. – The slow dance to ‘Bathroom Light’ was absolutely adorable. 
+
+
+
 # Bending Problem: 
 	KNOWNS		Units
 Areas	A_AB	1	in^2
