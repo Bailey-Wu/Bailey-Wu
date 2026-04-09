@@ -1,4 +1,177 @@
 ## 
+Instron Tensile Testing
+https://www.nextgentest.com/blog/how-to-perform-a-tensile-test/?gad_source=1&gad_campaignid=23678236775&gclid=EAIaIQobChMIru76iYXfkwMVUxGtBh2i5g7VEAAYAiAAEgIp-_D_BwE
+
+https://www.universalgripco.com/post/how-to-run-astm-e8-equipment-list-procedure
+
+Introduction
+A tensile test is a scientific test process involving the application of tension to a specimen until it fractures.
+-	Tensile Strength
+-	Yield Strength
+-	Ductility
+
+Specimen and Equipment
+-	Material: Common Industry Standard
+-	Shape & Size
+-	Grip Ends
+
+-	Marking: Avoid the possibility of the material fracturing in the gripped area. Any possible fractures should only occur within the gage length. Use a standard shape, and mark the cross-sectional area at the cylindrical test region to guarantee a fracture in the right place. This way, the increasing tension will be focused within the gage length.
+-	Grips: choice of grips and faces in the tensile test greatly contributes to the success of the test. If the equipment is incompatible with the specimen, the gripped area and the areas outside of the gage length will become prone to unexpected breakage or slippage. As much as possible, try not to let the tensile clamps damage the gripped area. It is also not a good idea to use serrated faces on tensile test samples that easily bend. Two of the most common grips are the serrated grips and pinned grips
+
+-	Do not forget to draw distance marks of regular intervals across the gage length. This will help determine the behavior of the sample throughout the tensile testing.
+
+All tensile testing machines have main capabilities for test specimens, 
+-	Maximum force capacity - machine’s capability to produce enough force to break the material
+-	Speed - machine should be able to control the speed at which it applies force
+-	Precision & Accuracy - machine should be able to measure the length and strain with precision and accuracy
+
+Data Gathering Software 
+-	This software will help the tensile testers acquire accurate information and results. The data will record and display what significant changes that occur during the tensile stress test.
+
+
+Tensile Test Procedure
+-	Mold the material – Slim Dogbone or Dumbbell
+o	Bonus tip: Make an exact sample copy and mark a line at same intervals
+-	
+
+
+
+
+Additional Testing Machines from Instron - https://www.instron.com/en/
+-	Tension & Compression
+-	Durability and Crash
+-	Fatigue and Fracture
+-	Impact
+
+
+
+Actions / To-Dos: 
+-	Download Instron Videos
+-	General Engineering Videos 
+-	Collect Important Sheets of Paper
+-	Recap Takeaways from Anita, Session 1, Session 2
+-	Resume Review
+-	Briefly Revisit ‘User Guide’
+-	“Formula Sheet” – 3 Sheets
+o	Overview (Mindset
+	Situations
+o	Technical (Engineering Focused)
+	Projects 
+o	Reflection (Philosophically Focused)
+	
+
+
+Overview
+-	Onsite Logistics (Time, Date, Address, Names) 
+-	
+
+Mindset: 
+
+Filler Phrases
+-	That’s a good question, I would say…
+-	When I think of that, my mind goes to…
+-	
+
+
+Technical
+-	Mfg
+-	Process
+-	Design
+-	Material Examples
+-	Simulation Examples
+-	Project Arsenal
+-	Instron Devices
+o	Tensile 
+
+
+
+BD Focus
+-	Summary & Recap of previous interviews
+-	Example Products
+-	Recent Events
+-	Comparisons Between Aerospace & MedTech
+-	Relevant ISO’s & ASTMs
+
+
+
+Situational (Ask for Pen & Paper or Whiteboard if possible) 
+-	Approaching Certain Scenarios 
+o	Knowns & Unknowns (Inputs & Outputs)
+o	Big Picture Step back
+-	Root Cause Analysis
+o	Communicate to the team
+
+Career Reflection
+-	Personal Values (A) 
+-	What I love about Boeing
+-	What I’m excited for BD
+-	Proudest Career Moments
+-	What makes a good team
+-	What makes a good leader
+-	What I’m excited for NC
+-	Favorite UW Class
+-	Lessons Learned (Documentation) 
+-	Logistics
+
+
+Questions:
+-	Onboarding plans / Industry Transitions – How did David go from Oil & Gas to MedTech industry?
+
+Personal Topics: 
+-	Where is everyone from / and how they got to NC (hometown vs college) 
+-	North Carolina quirks & geographical cultures
+-	Sharing Hobbies: Me – Introverted & Extroverted (Sports/Nature/Woodworking/Travelling)
+-	Recent / Upcoming Trips (Alaska & Ireland) 
+-	Pets – Dogs or Cats?
+
+
+
+
+
+
+What I value in a role: (A)
+-	Impact
+-	Work/Life Balance
+-	Team
+
+-	I’ve realized all the other things aren’t as important to me 
+-	My take on salary: I heard a saying about how if you take care of the product, the product takes care of you. And that’s been my approach to salary 
+
+
+What I love about Boeing: 
+-	Seeing my impact in real life (Stepping on an airplane) 
+-	History of knowledge – Encyclopedia of knowledge
+-	Solving problems with Design and Modeling
+
+What I’m excited for BD: 
+-	New Materials: Being at the early stage of design – Material Selection is setting the tone for a product design
+-	New Industry: Joining an industry with Impact & Purpose – Seeing how my work impacts the day to day / speaking with family members in healthcare 
+-	Focusing on Engineering (Less time spent on Program Chargelines or Budgeting Proposals)
+-	Excited for the team (Marcus’s gesture about the recruiter) 
+
+What I’m excited for NC: 
+-	Starting a new chapter with NK & laying seeds & planting roots 
+-	Building community in the Triangle (Basketball, Baseball,
+-	Exploring the East Coast & Nature (Appalachian Trail) 
+
+Questions:
+-	Onboarding plans / Industry Transitions – How did David go from Oil & Gas to MedTech industry?
+
+Personal Topics: 
+-	Where is everyone from / and how they got to NC (hometown vs college) 
+-	North Carolina quirks & geographical cultures
+-	Sharing Hobbies: Me – Introverted & Extroverted (Sports/Nature/Woodworking/Travelling)
+-	Pets – Dogs or Cats?
+
+
+
+
+--
+
+
+
+
+## 
 
 Dear Laddy & Hannah 
 
