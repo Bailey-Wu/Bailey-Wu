@@ -1,3 +1,49 @@
+Material Superpowers:
+
+
+AL – Cheap & Light & Strong & Corrosion Resistant & Easy to Machine / Low Melting Pt & High Reflectivity / Airplane Components 
+
+SS – Strong and Ductile & Machinability / Relatively Heavy
+Ti – Corrosion Resistance / Reactive at High Temps & hard to weld & machine & expensive / Biomedical implants
+Cr – Self Healing Oxide Layer creates shiny finish / Cr^6 can be toxic & carcinogen / Shiny Plating Finishes
+Be – Strength to Weight Ratio / Highly Toxic dust / RVS Satallite Mirrors
+Ni – Corrosion Resistance & Toughness Alloy / / Electroplated Parts
+Mg – Lightest Structural Metal Available & Biocompatible / Very poor Corrosion & Highly Flammable / 
+Inconnel (Fe-Ni-Cr)  – Temp resistant / hard to machine / Jet engine blades 
+Kovar (Fe-Ni-Co)  – CTE matches Glass & Ceramics for hermetic seals / Limits heat dissipation  / Vacuum Tubes
+Gold – Electrical Conductive & Low Emissivity creates great reflectivity / Very Soft and Expensive / Gold Plating Thermal Coatings
+Moly – High Melting Pt & Low CTE / Expensive 
+
+Corrosion: 
+-	Ti, SS, Ni, Al
+
+High Temps: 
+-	Moly, Inconel, Ni, Ti, Ceramics
+
+Strength to Weight Ratio: 
+-	Be, Ti, Al, Mg
+
+Lowest Machinability/Cost: 
+-	Al, SS, 
+
+
+
+
+Polymers: 
+(Thermoplastic)
+PEEK – Strong AF but expensive
+PFTE (Teflon) – Nothing sticks to it and chemically attacks it / Cannot be melt-processed / 
+PC – Impact Resistant & Transparent / UV Degradation & Hard to Manufacture / Windows, Glass, Optical Instruments
+PA (Nylon) – Tough & Self Lubricating / Absorbs Moisture / Gears, Bearings, Surgical Sutures 
+PP – Chemical & Fatigue Resistance / Brittle at low temps & poor UV / Syringes & Food Containers 
+ABS – Legos 
+
+Thermosets (Cannot be remelted) 
+Epoxy – Adhesion & Generally Strong / Matrix for CFRP, Structural Adhesives, Laminate Boards
+Silicone – High Temps but low strength / Silicone Cookware, Baby Bottles, Medical Implants 
+Polyurethane (TPU) – Flexible & Foam / Moisture Sensitivity 
+
+
 ## 
 Instron Tensile Testing
 https://www.nextgentest.com/blog/how-to-perform-a-tensile-test/?gad_source=1&gad_campaignid=23678236775&gclid=EAIaIQobChMIru76iYXfkwMVUxGtBh2i5g7VEAAYAiAAEgIp-_D_BwE
