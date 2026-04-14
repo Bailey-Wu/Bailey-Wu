@@ -1,3 +1,68 @@
+Weld Transfer Function
+
+Why: 
+-Structure
+-Hermicity
+
+Inputs:
+Power
+Speed
+Beam Size
+Join Configuration
+
+Material(s) (COE) 
+& Surface Finish & Preparation
+Dimensions / Geometry
+Fixturing
+
+Previous Processes
+
+Environment:
+Temperature
+Humidity
+Operator
+Shielding Gas
+Machine Calibration
+Contamination
+
+Outputs: 
+Weld Workmanship (Inspection)
+Strength (Tensile Test)
+Penetration Depth (Cross Section & Etching)
+Hermeticity (Helium Leak Checker)
+
+Documentation (Data or Images)
+
+
+Process / Test:
+Sample Size N 
+Tack Weld
+Continuous Pulse Weld 
+Material Compatibility
+Coupons / Sample Part
+Work Instructions / Documentation
+
+
+References:
+ASTM
+ISO
+Vendor Rep & Supplier Manuals 
+Internal Specs/Docs
+Network
+Lessons Learned
+
+Troubleshooting:
+Cracking  Material CTE
+Porosity  Surface Finish
+Low Tensile Strength  Low Penetration Keyhole Depth
+Brighteners  Reflectivity causes Welding issues
+
+
+
+
+
+
+
 Material Superpowers:
 
 
